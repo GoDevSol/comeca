@@ -1,0 +1,21 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "INVERSOR FDD210",
+			"image": "Talon/Talon Inversor 2000W.jpg",
+            "text1": "Este generador inversor duradero es más fácil de mover que los generadores de gas tradicionales y se adapta a espacios más pequeños. Este inversor es perfecto para garantizar que su bomba de sumidero u otros artículos domésticos críticos permanezcan encendidos durante cortes de energía y emergencias.",
+            "list": ["Watts Arranque: 2000","Watts ejecución: 1600","Arranque: Manual","Cilindrada: 196CC","Tipo de motor: Premium OHV","Peso: 58 libras","Voltaje: 120 VAC","Tipo de combustible: Gas","Marca: Jenfen"]
+                }
+    },
+    {
+        "id": "2",
+			"prop": {
+            "title": "GENERADOR FGG320",
+            "image": "Talon/Talon Generador 3500.jpg",
+            "text1": "Potente motor de gasolina de 6,5 hp con protección de apagado del motor con bajo nivel de aceite. Regulador automático de voltaje (AVR). Enchufes sudafricanos de 2 x 3 pines con disyuntor. Bajo ruido 74dB",
+            "list": ["Watts Arranque: 3500","Watts ejecución: 2800","Arranque: Manual","Cilindrada: 196CC","Tipo motor: OHVD","Peso: 101 libras","Voltaje: 120 VAC","Tipo combustible: Gasolina","Marca: Jenfen"]
+
+        }
+    }]    
+}

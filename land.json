@@ -1,0 +1,13 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "SeaChoice",
+            "image": "assets/images/logo/seachoice.jpg",
+            "text1": "-Contamos con un amplio stock de accesorios marinos. <br> <br><strong class='text-center'>Comunícate con nosotros para más información</strong>",
+            "list": []
+
+
+        }
+    }]    
+}

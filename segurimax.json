@@ -1,0 +1,144 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "23596",
+            "image": "./Segurimax/Residencial/23596/Segurimax 23596.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 100 lúmenes",            "Cantidad de LEDs: 30",            "Batería recargable: Litio 3,7V 1200 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 3-6 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 25 mts2",            "Temperatura de color: Blanco frío",            "Peso: 180g",            "Dimensiones: 205x65x27.7mm"]            
+        }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "24699",
+            "image": "./Segurimax/Residencial/24699/Segurimax 24699.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 50 lúmenes",            "Cantidad de LEDs: 11",            "Batería recargable: Níquel-Cádmio 3,6 V 600 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 15 mts2",            "Temperatura de color: Blanco frío",           "Peso: 120g",            "Dimensiones: 64x39x86mm"        ]            
+        }
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "25684",
+			"image": "./Segurimax/Residencial/25684/Segurimax 25684.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 100 lúmenes","Cantidad de LEDs: 12","Batería recargable: 3.6V 300mAH Ni-cd","Vida útil de la batería: 500 ciclos","Consumo de energía: 4w cargada","Autonomía: 1.5 hrs","Temperatura de operación: 0 a 50 grados","Ámbito de alcance: 25 mts2","Temperatura de color: Blanco frío","Peso: 86g","Dimensiones: 79.5x121x34mm"]            
+            }
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "25685",
+			"image": "./Segurimax/Residencial/25685/25685.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 100 lúmenes",            "Cantidad de LEDs: 15",            "Batería recargable: Níquel-Cádmio 3,6 V 300 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 1.5 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 25 mts2",            "Temperatura de color: Blanco frío",            "Peso: 210g",            "Dimensiones: 85x46.5x160mm"]            
+                }
+    },
+    {
+        "id": "5",
+		"prop": {
+            "title": "24530",
+			"image": "./Segurimax/Comercial/24530/Segurimax 24530.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 200 lúmenes","Cantidad de LEDs: 10","Batería recargable: Litio 3,7V 1200 mAh","Vida útil de la batería: 500 ciclos","Consumo de energía: 4w cargada","Autonomía: 3 hrs","Temperatura de operación: 0 a 50 grados","Ámbito de alcance: 50 mts2","Temperatura de color: Blanco frío","Peso: 260g","Dimensiones: 137x50x152mm"]            
+                }
+    },
+    {
+        "id": "6",
+		"prop": {
+            "title": "24532",
+			"image": "./Segurimax/Comercial/24532/Segurimax 24532.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 300 lúmenes",            "Cantidad de LEDs: 36",            "Batería recargable: Ni-Cd 3.6V 600 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 1.5 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 50 mts2",            "Temperatura de color: Blanco frío",            "Peso: 327g",            "Dimensiones: 104x208x60mm"]            
+                }
+    },
+    {
+        "id": "7",
+		"prop": {
+            "title": "24707",
+			"image": "./Segurimax/Comercial/24707/Segurimax 24707.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 1200 lúmenes","Cantidad de LEDs: 48","Batería recargable: Chumbo ácido 6V / 4Ah","Vida útil de la batería: 200 ciclos","Consumo de energía: 2w cargada","Autonomía: 3 hrs","Temperatura de operación: 0 a 50 grados","Ámbito de alcance: 250 mts2","Temperatura de color: Blanco frío","Dimensiones: 195x223x57,5mm"]            
+        }
+
+
+    },
+    {
+        "id": "8",
+		"prop": {
+            "title": "26568",
+			"image": "./Segurimax/Comercial/26568/Segurimax 26568.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 1200 lúmenes",            "Cantidad de LEDs: 48",            "Batería recargable: Ni-Cd 6 V 3 Ah",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 2w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 250 mts2",            "Temperatura de color: Blanco frío",            "Peso: 1,150g",            "Dimensiones: 255x68x258mm"]            
+        }
+    },
+    {
+        "id": "9",
+		"prop": {
+            "title": "27025",
+            "image": "./Segurimax/Comercial/27025/Segurimax 27025.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 400 lúmenes",            "Cantidad de LEDs: 24",            "Batería recargable: Lítio 3,7 V 2,5 Ah",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 100 mts2",            "Temperatura de color: Blanco frío",            "Peso: 330g",            "Dimensiones: 225x45.5x110mm"]            
+        }
+    },
+    {
+        "id": "10",
+		"prop": {
+            "title": "28105",
+            "image": "./Segurimax/Comercial/28105/Segurimax 28105.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 200 lúmenes",            "Cantidad de LEDs: 12",            "Batería recargable: Lítio 3,7 V 1800 Ah",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 100 mts2",            "Temperatura de color: Blanco frío",            "Peso: 320g",            "Dimensiones: 225x45,5x110mm"]            
+        }
+    },
+    {
+        "id": "11",
+		"prop": {
+            "title": "28812",
+            "image": "./Segurimax/Emergencia/28812/Segurimax 28812.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 100 lúmenes",            "Batería recargable: Litio 3,7 V 1800 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 1.5 hrs",            "Temperatura de operación: 0 a 50 grados",            "Temperatura de color: Blanco frío",            "Peso: 153g",            "Dimensiones: 118x70x32mm"]            
+        }
+    },
+    {
+        "id": "12",
+		"prop": {
+            "title": "25922",
+            "image": "./Segurimax/Emergencia/25922/Segurimax 25922.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 200 lúmenes","Cantidad de LEDs: 60","Batería recargable: Litio 3.7V 1800 mAh","Vida útil de la batería: 500 ciclos","Consumo de energía: 4w cargada","Autonomía: 3/6 hrs","Temperatura de operación: 0 a 50 grados","Ámbito de alcance: 50 mts2","Temperatura de color: Blanco frío","Peso: 250g","Dimensiones: 340x56x27,5mm"]            
+                }
+    },
+    {
+        "id": "13",
+		"prop": {
+            "title": "28049",
+            "image": "./Segurimax/Emergencia/28049/Segurimax 28049.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 300 lúmenes",            "Cantidad de LEDs: 90",            "Batería recargable: Litio 3.7V 1800 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 7w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 75 mts2",            "Temperatura de color: Blanco frío",            "Peso: 250g",            "Dimensiones: 340x56x27,5mm"]                        
+        }
+    },
+    {
+        "id": "14",
+		"prop": {
+            "title": "25328",
+            "image": "./Segurimax/Señalizacion/25327 y 25328/Segurimax 25327 y 25328.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 30 lúmenes",            "Cantidad de LEDs: 5",            "Batería recargable: Níquel-Cádmio 3,6 V 300 mAh",            "Vida útil de la batería: 500 ciclos",            "Consumo de energía: 4w cargada",            "Autonomía: 3 hrs",            "Temperatura de operación: 0 a 50 grados",            "Ámbito de alcance: 50 mts2",            "Temperatura de color: Blanco frío",            "Peso: 255g",            "Dimensiones: 240x183x21mm",            "Material: Plástico ABS"              ]            
+        }
+    },
+    {
+        "id": "15",
+		"prop": {
+            "title": "26301",
+            "image": "./Segurimax/Señalizacion/26301/Segurimax 26301.jpg",
+            "text1": "",
+            "list": ["Flujo Luminoso Máximo: 65 lúmenes","Cantidad de LEDs: 13","Batería recargable: Níquel-Cádmio 3,6 V 600 mAh","Vida útil de la batería: 500 ciclos","Consumo de energía: 4w cargada","Autonomía: 1.5 hrs","Temperatura de operación: 0 a 50 grados","Temperatura de color: Blanco frío","Peso: 327g","Dimensiones: 296x191x25mm","Material: Plástico ABS"]
+            
+
+        }
+    }
+
+]
+    
+}

@@ -1,0 +1,203 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "TORRE DE ILUMINACIÓN MLT 3060",
+            "image": "./Generac/Diesel/Torre.jpg",
+            "text1": "",
+            "list": ["Motor: Mitsubishi",            "Combustible: Diesel",            "Potencia: 6 Kw",            "Revoluciones: 1800 RPM",            "Desplazamiento: 61.8/1",            "Cilindros: 3",            "Lámparas: Haluro metálico",           "Voltaje: 4-1000",            "Tipo de balastra: Bobina",            "Lúmenes: 4400,00",            "Tanque combustible: 30 Lts",            "Horas de operación: 65"]
+            
+        }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "7KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 7KW Gas.jpg",
+            "text1": "La serie Guardian de Generac proporcionan la energía de respaldo automática que necesita para proteger su hogar y su familia durante un corte de energía. Conectado a su suministro de combustible de gas natural o LP existente, se activa automáticamente a los pocos segundos de detectar la pérdida de energía y funciona durante el tiempo que sea necesario hasta que vuelva la energía de la red.",
+            "list": ["KW (GLP): 7 Kw","Amperios: 29.16 / 25 amp.","Arranque: Manual/Automático","Cilindrada: 420 CC","Tipo motor: OHV","Peso: 360 libras"]
+}
+
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "9KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 9KW Gas.jpg",
+            "text1": "El generador de 9 kW de Generac es la alternativa económica y automática a la energía de respaldo portátil. Significativamente más silencioso que un generador portátil, protege los circuitos más esenciales de la casa, como refrigeradores, bombas de pozo y electrodomésticos seleccionados, sin tener que configurarlo manualmente durante el mal tiempo, repostar o hacer funcionar cables eléctricos. Operación completamente automática: incluye interruptor de transferencia automática",
+            "list": ["KW (GLP): 9 Kw",        "Amperios: 37.5 / 33.3 amp.",        "Arranque: Manual/Automático",        "Cilindrada: 426 CC",        "Tipo motor: G-Force 400",       "Peso: 399 libras",        "Voltaje: 120 / 240 VAC"]
+        }
+        
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "11KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 11KW Gas.jpg",
+            "text1": "Refrigerado por aire con capacidad de wi-fi es una energía de respaldo confiable que mantendrá sus electrodomésticos en funcionamiento cuando se apaga la red eléctrica y brinda a su hogar protección. Su potencia es lo suficientemente suave como para sus aparatos más sensibles, y es tranquila, por lo que es perfecto para su hogar y el vecindario. está diseñado para ser una fuente potente, moderna y conveniente de electricidad de respaldo confiable, hecha a largo plazo.",
+            "list": ["KW (GLP): 11 Kw","Amperios: 45.8 / 41.7 amp.","Arranque: Manual/Automático","Cilindrada: 530 CC","Tipo motor: G-Force 500","Peso: 340 libras","Voltaje: 120 / 240 VAC"]
+        }
+        
+        
+    },
+    {
+        "id": "5",
+		"prop": {
+            "title": "16KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 16KW Gas.jpg",
+            "text1": "Generac proporciona la energía de respaldo automática que necesita para proteger su hogar y su familia durante un corte de energía. Conectado a su suministro de combustible de gas natural o LP existente, se activa en cuestión de segundos después de determinar la pérdida de energía automáticamente y funciona durante el tiempo que sea necesario hasta que vuelva la energía de la red. Controla tu poder. Controla tu vida.",
+            "list": ["KW (GLP): 16 Kw","AMPERIOS: 66.6 / 66.6 amp.","Arranque: Manual/Automático","Cilindrada: 999 CC","Tipo motor: G-Force 1000","Peso: 409 libras","Voltaje: 120 / 240 VAC"]        }
+                
+    },
+    {
+        "id": "6",
+		"prop": {
+            "title": "20KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 20KW Gas.jpg",
+            "text1": "20 KW de Generac proporciona la energía de respaldo automática que necesita para proteger su hogar y su familia durante un corte de energía. Conectado a su suministro de combustible de gas natural o LP existente, se activa en cuestión de segundos después de determinar la pérdida de energía automáticamente y funciona durante el tiempo que sea necesario hasta que vuelva la energía de la red. Controla tu poder. Controla tu vida.",
+            "list": ["KW (GLP): 20 kW","Amperios: 83.3 / 75 amp.","Arranque: Manual/Automático","Cilindrada: 999 CC","Tipo motor: G-Force 1000","Peso: 448 libras","Voltaje: 120 / 240 VAC"]
+        }
+        
+        
+    },
+    {
+        "id": "7",
+		"prop": {
+            "title": "22KW",
+			"image": "./Generac/Gas/Generac Generador Comercial 22K Gas.jpg",
+            "text1": "El generador de reserva doméstico de la serie Guardian® de 22 kW es el generador de reserva doméstico refrigerado por aire más grande del mercado. No solo ofrece todas las características y funcionalidades que los clientes esperan de la marca líder en el mercado de generadores de reserva para el hogar, sino que con un MSRP que es el costo más bajo por kilovatio de cualquier generador de reserva para el hogar refrigerado por aire. Proporciona cobertura de toda la casa para muchos hogares.",
+            "list": ["KW (GLP): 22 kW",        "Amperios: 91.6 / 81.3 amp.",        "Arranque: Manual/Automático",        "Cilindrada: 999 CC",        "Tipo motor: G-Force 1000",        "Peso: 466 libras",        "Voltaje: 120 / 240 VAC"]
+        }
+    },
+    {
+        "id": "8",
+		"prop": {
+            "title": "3100 PSI",
+			"image": "./Generac/Hidrolavadoras/Generac Hidrolavadora Residencial 3100psi.jpg",
+            "text1": "La Generac Hidrolavadora de Gasolina 3100 PSI es la elección favorita de los expertos en limpieza de equipos a presión. Por su estructura durable y su tamaño le permite ser transportada con facilidad y poder ser usada en cualquier lugar su inmejorable calidad y precio la convierten en la mejor hidrolavadora de gasolina para realizar diferentes tipos trabajos de limpieza como carros banquetas fachadas pisos paredes maquinas lanchas entre otros.",
+            "list": ["Caudal: 2.8 GPM",        "Transmisión: Directa",        "Arranque: Manual",        "Cilindrada: 4196cc",        "Motor: OHV",        "Peso: 57 Lbs"        ]
+        }
+        
+        
+    },
+    {
+        "id": "9",
+		"prop": {
+            "title": "4200 PSI",
+			"image": "./Generac/Hidrolavadoras/Generac Hidrolavadora Comerial 4200psi.jpg",
+            "text1": "Transmisión directa supera cada difícil labor de limpieza en el trabajo o en la granja. Las resistentes hidrolavadoras Generac combinan las funciones de nivel profesional y un diseño compacto y ligero. Es sencillo de configurar, fácil de maniobrar y no te decepcionara.",
+            "list": ["Caudal: 4 GPM","Transmisión: Directa","Arranque: Manual","Cilindrada: 420cc","Motor: OHV","Peso: 147 Lbs"]
+        }
+        
+        
+    },
+    {
+        "id": "10",
+		"prop": {
+            "title": "3800 PSI",
+			"image": "./Generac/Hidrolavadoras/Generac Hidrolavadora Industrial 3800psi.jpg",
+            "text1": "Potente. Compacta. Larga duración. Estas hidrolavadoras profesionales cuenta con impulsores de correa resistente para una mayor duración de la bomba comparada con los modelos de transmisión directa. También cuenta con un diseño compacto y ligero para facilitar su movilidad alrededor de la obra.",
+            "list": ["Caudal: 3.2 GPM","Transmisión: Por banda","Arranque: Manual","Cilindrada: 302cc","Motor: OHV","Peso: 134 Lbs"]
+        }
+        
+        
+    },
+    {
+        "id": "11",
+		"prop": {
+            "title": "GP15000E",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP15000E Gasolina.jpg",
+            "text1": "El generador portátil de gasolina Generac GP de 15,000 vatios con motor OHVI ofrece un rendimiento silencioso y confiable cuando necesita una gran cantidad de energía sin ser permanentes. Ideal para sitios de trabajo y aplicaciones de emergencia.",
+            "list": ["Watts Arranque: 22500","Watts ejecución: 15000","Arranque: Starter","Cilindrada: 992CC","Tipo de motor: OHVI","Peso: 363 libras","Voltaje: 120/240 VAC","Tipo combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "12",
+		"prop": {
+            "title": "GP17500E",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP17500E Gasolina.jpg",
+            "text1": "Desde el uso doméstico hasta el campamento, la construcción y los eventos al aire libre, el generador portátil de arranque eléctrico con motor de gasolina Generac GP de 17,500 vatios proporciona potencia confiable y gran portabilidad. El control de ralentí de este generador aumenta la eficiencia del combustible y el juego de ruedas incluido y la argolla de elevación facilitan el transporte.",
+            "list": ["Watts Arranque: 26250","Watts ejecución: 17500","Arranque: Manual","Cilindrada: 992CC","Tipo de motor: OHVI","Peso: 390 libras","Voltaje: 120/240 VAC","Tipo combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "13",
+		"prop": {
+            "title": "GP3600",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP3600 Gasolina.jpg",
+            "text1": "Puede utilizarse para hacer frente a proyectos en el hogar, proporcionar energía para herramientas o suministrar electricidad esencial en caso de un apagón. Es una solución especialmente asequible con características premium. Con la tecnología avanzada PowerRush de Generac, que ofrece más capacidad de arranque, lo que le permite hacer más con menos.",
+            "list": ["Watts Arranque: 4500","Watts ejecución: 3600","Arranque: Manual","Cilindrada: 212CC","Tipo de motor: OHV","Peso: 105 libras","Voltaje: 120 VAC","Tipo de combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "14",
+		"prop": {
+            "title": "GP5500",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP5500 Gasolina.jpg",
+            "text1": "Energía portátil confiable para cada uso. Alimenta las cosas divertidas o cubre una emergencia. La fiabilidad y las características asequibles que no se encuentran generalmente en los modelos portátiles básicos los convierten en los favoritos para el uso de emergencia en el hogar, campamentos, lugares de trabajo o eventos al aire libre.",
+            "list": ["Watts Arranque: 6875","Watts ejecución: 5500","Arranque: Manual","Cilindrada: 389 C.C.","Tipo de motor: OHV","Peso: 171 libras","Voltaje: 120/240 VAC","Tipo de combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "15",
+		"prop": {
+            "title": "GP6500E",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP6500E Gasolina.jpg",
+            "text1": "El generador portátil GP6500E de Generac ofrece la tecnología avanzada PowerRush ™ , que ofrece más del 40% de capacidad de arranque, lo que le permite hacer más con menos. El motor OHV de Generac y el tanque de combustible de acero de gran capacidad garantizan una vida útil prolongada del motor y tiempos de funcionamiento, mientras que la base del tubo de acero proporciona mayor resistencia. • TECNOLOGÍA AVANZADA PowerRush ™ ofrece más del 40% de capacidad de arranque, lo que le permite hacer más con menos.",
+            "list": ["Watts Arranque: 8000","Watts ejecución: 6500","Arranque: Manual","Cilindrada: 389 C.C.","Tipo de motor: OHV","Peso: 184 libras","Voltaje: 120/240 VAC","Tipo combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "16",
+		"prop": {
+            "title": "GP8000E",
+			"image": "./Generac/Portatiles/Generac Generador Residencial GP8000E Gasolina.jpg",
+            "text1": "El GP8000E de Generac ofrece muchos beneficios que hacen de este modelo un favorito para energía de emergencia o uso recreativo. Siempre estará preparado con el conector de batería enchufable que mantiene la batería cargada y lista para cortes inesperados. Los entornos difíciles o accidentados no serán un problema gracias a las salidas cubiertas para mayor protección, ruedas de servicio pesado que nunca se desinflarán y un asa plegable que le permitirá transportar fácilmente su generador a cualquier lugar.",
+            "list": ["Watts Arranque: 10000","Watts ejecución: 8000","Arranque: Manual/Starter","Cilindrada: 420CC","Tipo de motor: OHV","Peso: 198 libras","Voltaje: 120/240 VAC","Tipo combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "17",
+		"prop": {
+            "title": "XG10000E",
+			"image": "./Generac/Portatiles/Generac Generador Residencial XG 10000 Gasolina.jpg",
+            "text1": "Mucha potencia es solo una ventaja de este generador resistente diseñado para un alto rendimiento con el motor Generac OHVI. El generador de energía más compacto y fácil de usar. Fácil de mover y una de las unidades portátiles más potentes del mercado.",
+            "list": ["Watts Arranque: 12500","Watts ejecución: 10000","Arranque: Starter","Cilindrada: 530CC","Tipo de motor: OHVI","Peso: 300 libras","Voltaje: 120/240 VAC","Tipo combustible: Gasolina"]
+        }
+        
+        
+    },
+    {
+        "id": "18",
+		"prop": {
+            "title": "INDUSTRIAL MONOFÁSICO DIESEL<br> 15Kw - 250 Kw",
+			"image": "./Generac/Diesel/Generac Generador Industrial  Monofásica 22KW-150KW Gas.jpg",
+            "text1": "Los nuevos generadores Diésel de la serie Protector® de Generac elevan el listón para los generadores Diésel residenciales y comerciales ligeros. Los códigos de construcción y zonificación pueden variar enormemente de una región a otra. En el pasado, la única respuesta era pedir soluciones caras y personalizadas. Hasta ahora.",
+            "list": ["Modelo: Rd015 / Rd020","Aplicación: Stanby / Monofasico","Arranque: Manual/Automático","Cilindros: 4","Motor: Mitsubishi","Alternador: Leroy Somer","Voltaje: 120 /240 Vac","Tipo Combustible: Diésel","Marca: Generac"]
+        }
+    },
+    {
+        "id": "19",
+		"prop": {
+            "title": "INDUSTRIAL TRIFÁSICO  DIESEL<br> 15Kw - 3000Kw",
+			"image": "./Generac/Diesel/Generac Generador Industrial Trifásico 15KW-1000KW Diesel Cabina.jpg",
+            "text1": "Grupos electrógenos a Diése, Generac-Ottomotores elabora equipo original con la más alta tecnología utilizando componentes de marcas líderes en el mercado mundial.",
+            "list": ["Modelo: Consultar","Aplicacion: Stanby / Trifásico","Arranque: Manual/Automático","Cilindros: 4 En Linea ","Voltaje: 208 /480 Vac","Combustible: Diésel"]
+        }
+
+        
+        
+    }]    
+}

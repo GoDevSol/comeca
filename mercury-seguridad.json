@@ -1,0 +1,232 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "SEAPRO 25 HP 2T",
+            "image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury SeaPro 25 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5000-6000","Arranque: Manual",            "Relación engranaje: 2.25",            "Longitud eje: 15 ''",            "Peso: 56 Kg"]
+                }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "SEAPRO 40 HP 2T",
+			"image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury SeaPro 40 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5500-6000","Arranque: Manual","Relación de engranajes: 1.85","Longitud del eje: 15'' ","Peso: 93Kg"]
+        }
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "SEAPRO 60 HP 2T",
+			"image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury SeaPro 60 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5000-5500","Arranque: Manual","Relación de engranaje: 1.30","Longitud del eje: 20''","Peso: 100Kg"]
+        }
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "TWOSTROKE 3.3 HP",
+			"image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury 3 3 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 4500-5500","Arranque: Manual","Relación engranaje: 2.15","Longitud eje: 15''"]        
+        }
+    },
+    {
+        "id": "5",
+		"prop": {
+            "title": "TWOSTROKE 40 HP",
+			"image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury 40 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5500-6000",        "Arranque: Manual",        "Relación engranaje: 1.85",        "Longitud eje: 15''"]
+        }
+        
+    },
+    {
+        "id": "6",
+		"prop": {
+            "title": "TWOSTROKE 5 HP",
+			"image": "./Mercury/3.3 – 90 HP/2 TIEMPOS/Mercury 5 2 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 4800-5000","Arranque: Manual","Relación engranaje: 2.15","Longitud eje: 15''"]
+        }
+
+    },
+    {
+        "id": "7",
+		"prop": {
+            "title": "FOURSTROKE 15 HP",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/Mercury 15 4 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 4500-5500","Arranque: Manual","Relación engranaje: 2.00","Longitud eje: 15'' pata larga 20'' pata corta","Peso: 55 Kg"]
+        }
+
+    },
+    {
+        "id": "8",
+		"prop": {
+            "title": "FOURSTROKE 25 HP",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/Mercury 25 4 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5000-6000","Arranque: Manual","Relación engranaje: 2.42","Longitud eje: 15'' pata corta 20'' pata larga","Peso: 80 Kg"]
+        }
+
+    },
+    {
+        "id": "9",
+		"prop": {
+            "title": "FOURSTROKE 40 HP 4T",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/40 HP 4T.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5500-6000",        "Arranque: Eléctrico",        "Relación de engranajes: 2.33",        "Longitud del eje: 20'' Peso"]
+        }
+        
+    },
+    {
+        "id": "10",
+		"prop": {
+            "title": "FOURSTROKE 60 HP",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/Mercury 60 4 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5000-5500","Arranque: Eléctrico","Relación engranaje: 1.64","Longitud eje: 20'' Peso"]
+        }
+
+    },
+    {
+        "id": "11",
+		"prop": {
+            "title": "SEAPRO 40 HP 4T",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/Mercury SeaPro 40 4 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5500-6000",        "Arranque: Eléctrico",        "Relación engranaje: 2.33",        "Longitud eje: 20'' Peso"     ]
+        }
+        
+    },
+    {
+        "id": "12",
+		"prop": {
+            "title": "SEAPRO 60 HP 4T",
+			"image": "./Mercury/3.3 – 90 HP/4 TIEMPOS/Mercury SeaPro 60 4 Tiempos.jpg",
+            "text1": "",
+            "list": ["Revoluciones: 5000-5500",        "Arranque: Eléctrico",        "Relación engranaje: 1.64",        "Longitud eje: 20'' Peso"     ]
+        }
+        
+    },
+    {
+        "id": "13",
+		"prop": {
+            "title": "SEAPRO 75 HP",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Mercury 75HP FourStroke SeaPro.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 5000-5500 (RPM)",
+                "Motor: 4 Cilindros",
+                "Cilindrada: 126 cc in (2.1L)",
+                "Admisión y Escape: 8 válvulas SOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 35 amp",
+                "Relación de Transmisión: 2.38",
+                "Sistema de Dirección: Remoto o Big Tiller",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Mecánico"]
+        }
+    },
+    {
+        "id": "14",
+		"prop": {
+            "title": "SEAPRO 90",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Mercury 90HP FourStroke SeaPro.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 5000-5500 (RPM)",
+                "Motor: 4 Cilindros",
+                "Cilindrada: 126 cc in (2.1L)",
+                "Admisión y Escape: 8 válvulas SOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 35 amp",
+                "Relación de Transmisión: 2.38",
+                "Sistema de Dirección: Remoto o Big Tiller",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Mecánico"]
+        }
+    },
+    {
+        "id": "15",
+		"prop": {
+            "title": "SEAPRO 115",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Mercury 115HP FourStroke SeaPro.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 5000-5500 (RPM)",
+                "Motor: 4 Cilindros",
+                "Cilindrada: 126 cc in (2.1L)",
+                "Admisión y Escape: 8 válvulas SOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 35 amp",
+                "Relación de Transmisión: 2.38",
+                "Sistema de Dirección: Remoto o Big Tiller",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Mecánico"]
+        }
+    },
+    {
+        "id": "16",
+		"prop": {
+            "title": "SEAPRO 150",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Mercury 150HP FourStroke SeaPro.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 4800-5300 (RPM)",
+                "Motor: 4 Cilindros",
+                "Cilindrada: 183 cc in (3.0L)",
+                "Admisión y Escape: 8 válvulas SOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 756 watt",
+                "Relación de Transmisión: 1.92",
+                "Sistema de Dirección: Remoto o Big Tiller",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Mecánico"]
+        }
+    },
+	{
+        "id": "17",
+		"prop": {
+            "title": "SEAPRO 200",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Mercury 200hp SP FS V6 XL.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 4600-5400 (RPM)",
+                "Motor: 6 Cilindros V",
+                "Cilindrada: 109 cc in (3.4L)",
+                "Admisión y Escape: 24 válvulas DOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 1071 watt",
+                "Relación de Transmisión: 1.85",
+                "Sistema de Dirección: Electrohidráulico o Big Tiller",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Mecánico o digital"]
+        }
+    },
+    {
+        "id": "18",
+		"prop": {
+            "title": "VERADO 400",
+			"image": "./Mercury/115 – 300 HP/4 Tiempos/Verado 400HP.jpg",
+            "text1": "",
+            "list": ["Aceleración Máxima: 6200-6800 (RPM)",
+                "Motor: 6 alineado",
+                "Cilindrada: 158.5 cc in (2.6L)",
+                "Admisión y Escape: 24 válvulas DOHC",
+                "Combustible: Inyección electrónica",
+                "Arranque: Eléctrico",
+                "Alternador: 882 watt",
+                "Relación de Transmisión: 1.75:1",
+                "Sistema de Dirección: Electrohidráulico",
+                "Longitud del Eje: 20'' (Largo de Cola)",
+                "Control: Digital"]
+        }
+    }]    
+}

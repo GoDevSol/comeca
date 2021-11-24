@@ -1,0 +1,13 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "INFORMACION",
+            "image": "assets/images/logo/LanchasComeca.jpg",
+            "text1": "Fabricación de lanchas desde 18 pies hasta 30 pies. <br> <br><strong class='text-center'>Comunícate con nosotros para más información</strong>",
+            "list": []
+
+
+        }
+    }]    
+}

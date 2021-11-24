@@ -1,0 +1,51 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "CM 2752 CF",
+            "image": "Columbus McKinnon/ELECTRICO/Columbus McKinnon Polipasto electrico 1 5 T CM-2752CF.jpg",
+            "text1": "Diseño compacto y ligero construido en aluminio fundido que disipa el calor. Cuerpo totalmente cerrado, recubierto con pintura de polvos resistente a la corrosión. Motor con protección térmica y ciclo de Servicio H4 de 30 min/300 arranques por hora. Dispositivo limitador de sobrecarga como característica estándar.",
+            "list": ["Capacidad: 1.5 (Ton)","Altura de elevación: 10 (Ft)","Motor: 1.5 HP","Velocidad de elevación: 16 (F.P.M.)","Voltaje de operación: 115 volt. Monofásico 60 Hz","Peso: 66 (Kg)"]
+            
+        }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "CM 9508 CF",
+			"image": "Columbus McKinnon/ELECTRICO/Columbus McKinnon Polipasto electrico 3 T.jpg",
+            "text1": "Diseño compacto y ligero construido en aluminio fundido que disipa el calor. Cuerpo totalmente cerrado, recubierto con pintura de polvos resistente a la corrosión. Motor con protección térmica y ciclo de Servicio H4 de 30 min/300 arranques por hora. Dispositivo limitador de sobrecarga como característica estándar.",
+            "list": ["Capacidad: 3 (Ton)","Altura de elevación: 10 (Ft)","Motor: 2 HP","Velocidad de elevación: 11 (F.P.M.)","Voltaje de operación: 230/460 volt. Trifásico 60 Hz","Peso: 162 (Kg)"]            
+                }
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "CM 2218",
+			"image": "Columbus McKinnon/MANUAL/Columbus McKinnon Polipasto manual 1 5 T CM 2231.jpg",
+            "text1": "Diseño compacto de baja altura, ligero y muy resistente. Para uso estándar en aplicaciones generales de izaje vertical. Fácil instalación, no requiere de ajustes, sencilla puesta en operación. Cuerpo y cadena de carga de acero endurecido, para mínimo desgaste y larga vida. Tren de engranajes de acero termo-tratado con doble reducción de esfuerzo.",
+            "list": ["Capacidad: 2 (Ton)",            "Altura de elevación: 15 (Ft)",            "Fuerza de elevación cadena: 82 (Lbs)",            "Apertura de ganchos: 80 (Pulgada)",            "Peso: 71 (Kg)"]
+            
+                }
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "CM 2230",
+			"image": "Columbus McKinnon/MANUAL/Columbus McKinnon Polipasto manual 2 T CM 2218.jpg",
+            "text1": "Diseño compacto de baja altura, ligero y muy resistente. Para uso estándar en aplicaciones generales de izaje vertical. Fácil instalación, no requiere de ajustes, sencilla puesta en operación. Cuerpo y cadena de carga de acero endurecido, para mínimo desgaste y larga vida. Tren de engranajes de acero termo-tratado con doble reducción de esfuerzo.",
+            "list": ["Capacidad: 3 (Ton)","Altura de elevación: 15 (Ft)","Fuerza de elevación cadena: 65 (Lbs)","Apertura de ganchos: 154 (Pulgada)","Peso: 99 (Kg)"]
+            
+                }
+    },
+    {
+        "id": "5",
+		"prop": {
+            "title": "CM 2231",
+			"image": "Columbus McKinnon/MANUAL/Columbus McKinnon Polipasto manual 3 T CM 2230.jpg",
+            "text1": "Diseño compacto de baja altura, ligero y muy resistente. Para uso estándar en aplicaciones generales de izaje vertical. Fácil instalación, no requiere de ajustes, sencilla puesta en operación. Cuerpo y cadena de carga de acero endurecido, para mínimo desgaste y larga vida. Tren de engranajes de acero termo-tratado con doble reducción de esfuerzo.",
+            "list": ["Capacidad: 1.5 (Ton)","Altura de elevación: 20 (Ft)","Fuerza de elevación cadena: 53 (Lbs)","Apertura de ganchos: 29 (Pulgada)","Peso: 30 (Kg)"]            
+                }
+    }
+]    
+}

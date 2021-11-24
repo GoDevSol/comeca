@@ -1,0 +1,350 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+    <head>
+        <!-- META DATA -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	
+        <!--font-family-->
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+		
+        <!-- TITLE OF SITE -->
+        <title>COMECA</title>
+
+        <!-- for title img -->
+		<link rel="shortcut icon" type="image/icon" href="assets/images/logo/logocomecainvertido.png"/>
+       
+        <!--font-awesome.min.css-->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+		
+		<!--linear icon css-->
+		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+		
+		<!--animate.css-->
+        <link rel="stylesheet" href="assets/css/animate.css">
+		
+		
+		<!--vedio player css-->
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+
+		<!--owl.carousel.css-->
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<link href="assets/css/owl.theme.default.min.css" rel="stylesheet"/>
+
+
+        <!--bootstrap.min.css-->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		
+		<!-- bootsnav -->
+		<link href="assets/css/bootsnav.css" rel="stylesheet"/>	
+        
+        <!--style.css-->
+        <link rel="stylesheet" href="assets/css/style.css">
+        
+        <!--responsive.css-->
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        
+        
+
+    </head>
+	
+	<body style = "font-family: 'Montserrat', sans-serif;">
+		<!--header start-->
+		
+		<div id="contenidoHeader">
+
+		</div>
+
+		
+		<section class="contacto">
+			<div class="container">	
+				<div class="responsive-left">
+					<img width="200" src="./assets/images/marcas/LogoStihl.jpg" alt="">
+				</div>
+				
+				<div class="navbar-collapse">					
+					<ul class="nav navbar-nav navbar-right nav-stihl">
+													
+						<li  class="smooth-menu">
+							<a class='footer-border-stihl' href="./stihl-maquinaria.html">MAQUINARIA</a>
+						</li>
+						<li class="smooth-menu">
+							<a class='footer-border-stihl' href="./stihl-seguridad.html">SEGURIDAD</a>							
+						</li>															
+						<li  class="smooth-menu">
+							<a class='footer-border-stihl' href="./stihl-servicio.html">SERVICIO</a>
+						</li>
+						<li  class="smooth-menu">
+							<a class='footer-border-stihl' href="./stihl-falsificacion.html">PIRATERIA</a>
+						</li>
+						<li class="smooth-menu">
+							<a style="color: black;" href="./stihl-distribuidores.html">DISTRIBUIDORES</a>
+						</li>
+						
+					</ul>
+				</div>
+
+
+				<div class="service-details">						
+					<div class="service-content-one">
+						<h2 class="stihl">
+							MAQUINARIA
+						</h2>
+						
+						<div class="service-content-one"></div>
+						<div class="row text-center hover-stihl" style="background-color: #E3E3E3; font-weight: bold;" >
+							<div class="col-lg-2 col-sm-4 col-xs-4 footer-border-stihl seguridad-nav" onclick="location.href = './stihl-maquinaria.html';">
+								<h4>MOTOSIERRAS</h4>						
+							</div>
+							<div class="col-lg-2 col-sm-4 col-xs-4 footer-border-stihl seguridad-nav" onclick="location.href = './stihl-maquinaria-chapeadora.html';">
+								<h4>CHAPEADORAS</h4>						
+							</div>							
+							<div class="col-lg-2 col-sm-4 col-xs-4 footer-border-stihl seguridad-nav" onclick="location.href = './stihl-maquinaria-fumigadora.html';">
+								<h4>FUMIGADORAS</h4>						
+							</div>
+							<div class="col-lg-3 col-sm-6 col-xs-6 footer-border-stihl seguridad-nav" onclick="location.href = './stihl-maquinaria-moto.html';">
+								<h4>MOTO IMPLEMENTOS</h4>						
+							</div>
+							<div class="col-lg-3 col-sm-6 col-xs-6  seguridad-nav" onclick="location.href = './stihl-maquinaria-electrico.html';">
+								<h4>ELECTRICO Y BATERIA</h4>						
+							</div>
+							
+						</div>						
+					</div>						
+				</div>
+				
+
+				<div class="service-details">						
+					<div class="service-content-one">
+						<div class="row" style="color: black;">
+							<div class="col-sm-7 col-xs-12">								
+								<img  id="img" src="" alt="">
+							</div>
+							
+							<div class="col-sm-5 col-xs-12">
+								<div class="text-center">
+									<div>
+										<h2 id="titulo" class="stihl">											
+										</h2>
+										<div class="card text-left" style="width: 100%;">
+											<div class="service-content-one"></div>
+											  <p  id="texto1" class="card-texto"></p>
+											  <div class="service-content-one"></div>
+											  <strong id="TitDatosTec">Datos técnicos</strong>
+											  <div class="service-content-one"></div>
+											  <span id="datosTecnicos"></span>
+											  <div class="service-content-one"></div>
+											  <form id="form" onsubmit="return validateForm(this);" action="#"  style="background-color: #E3E3E3; padding: 15px;">
+												<h3 class="stihl text-right">
+													COTIZAR
+												</h3>
+												<div class="form-group">
+												  <label for="Name">NOMBRE</label>
+												  <input required type="text" class="form-control" id="Name" aria-describedby="emailHelp" placeholder="NOMBRE">
+												  
+												</div>
+												<div class="form-group">
+												  <label for="Mail">E-MAIL</label>
+												  <input required type="email" class="form-control" id="Mail" placeholder="E-MAIL">
+												  <small id="emailHelp" class="form-text text-muted">Nunca compartiremos tu información con alguien mas.</small>
+												</div>
+												<div class="form-group">
+													<label for="Tel">TELEFONO</label>
+													<input required type="text" class="form-control" id="Tel" aria-describedby="Telefono" placeholder="TELEFONO">													
+												</div>												  
+												<div class="form-group">
+													<label for="Mensaje">MENSAJE</label>
+													<textarea required class="form-control" id="Mensaje" rows="4" placeholder="MENSAJE"></textarea>														
+												</div>
+												  
+												  
+												<div class="text-center">
+												<button type="submit" class="btn text-center" style="background-color: #F37A1F; color: white;">ENVIAR</button>
+												</div>
+											  </form>
+										</div>
+									</div><!--/.service-img-->									
+								</div><!--/.service-single-->
+							</div>				
+						</div>
+					</div><!--/.service-content-one-->
+				</div>
+		</section>
+
+		<!-- footer-copyright start -->
+		<div id="contenidoFooter">
+
+				</div>
+		<!-- footer-copyright end -->
+
+
+
+		<!-- jaquery link -->
+
+		<script src="assets/js/jquery.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        
+        <!--modernizr.min.js-->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+		
+		
+		<!--bootstrap.min.js-->
+        <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+		
+		<!-- bootsnav js -->
+		
+		
+		<!-- for manu -->
+		
+
+		
+		<!-- vedio player js -->
+		<script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+
+		<!-- isotope js -->
+		<!-- <script src="assets/js/masonry.min.js"></script>
+		<script src="assets/js/isotop-custom.js"></script> -->
+
+        <!--owl.carousel.js-->
+        <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+		
+		<!-- counter js -->
+		<script src="assets/js/jquery.counterup.min.js"></script>
+		<script src="assets/js/waypoints.min.js"></script>
+		
+        <!--Custom JS-->        
+        <script type="text/javascript" src="assets/js/custom.js"></script>
+		
+
+	</body>
+	  <script>
+      			var input
+      			$("#contenidoHeader").load("header.html", () => {
+					input = document.getElementById("busqueda");
+					input.addEventListener("keyup", function(event) {  	
+					if (event.keyCode === 13) {    			
+						busqueda()
+					}}
+					);
+				  }
+		);
+      			$("#contenidoFooter").load("footer.html"); 
+	</script>
+	<script>
+		function getQueryStringValue (key) {  
+			var string = unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"))
+			if (string == ""){
+				string = "1"
+			}
+    		return string   
+		}			
+		$.getJSON( "stihl-maquinaria.json", function( data ) {
+			var bandera = true
+			var dato = data.Items 
+			dato.forEach(element => {
+				if (element.id == (getQueryStringValue("data"))){
+					var bandera = false					
+					document.getElementById("titulo").innerHTML = element.prop.title
+					document.getElementById("img").src = element.prop.image
+					document.getElementById("texto1").innerHTML = element.prop.text1					
+					if (element.prop.list.length == 0){
+						document.getElementById("TitDatosTec").style = "display:none"
+					} else{
+					var lista = "<ul>"
+					element.prop.list.forEach(element => {
+						lista = lista +"<li>" +  element + "</li>"
+					})
+					lista = lista + "</ul>"
+					document.getElementById("datosTecnicos").innerHTML = lista										
+					}
+				}
+			});				
+
+			
+			});
+		
+	</script>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+function validateForm(){
+	var data = {
+	Name: document.getElementById("Name").value,
+	Mail: document.getElementById("Mail").value,
+	Producto: document.getElementById("titulo").innerHTML,
+	Tel: document.getElementById("Tel").value,
+	Mensaje: document.getElementById("Mensaje").value
+	}
+	$.ajax({
+	type: "POST",
+	url: "./MailCotizacion.php",
+	data: data,
+	success: swal("Correo enviado!", "Hemos recibido tu mensaje y nos contactaremos lo antes posible contigo para darte la informacion!", "success")		
+	}); 
+document.getElementById("form").reset() 
+return false
+	
+	
+}
+</script>
+	
+<script>
+	
+	function busqueda(){
+		if (input.value){
+		location.href = './busqueda.html?busqueda=' + input.value;
+		}else{
+			alert("Ingresa un valor para realizar la busqueda")
+		}
+	}
+
+	function down(){
+		var y = $(window).scrollTop();  //your current y position on the page
+		$(window).scrollTop(y+150);
+	}
+
+	$('.menu').bind('touchstart', function(event){
+        event.stopPropagation(); /*Make all touch events stop at the .filters ul.children container element*/
+	});
+
+	$(".navbar-collapse a").click(function () {
+              $(".navbar-collapse").fadeOut(300); /*Close filters drop-downs if user taps on any link in drop-down*/
+    });
+
+</script>	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174929820-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174929820-1');
+</script>
+
+
+<!--  Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1138039353263292');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1138039353263292&ev=PageView&noscript=1"
+/></noscript>
+<!-- End  Code --></html>
+
+
+

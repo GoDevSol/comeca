@@ -1,0 +1,40 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "DN 25",
+            "image": "Lovson/Lovson Motor SHD13, SHD16, SHD20, DN25.jpg",
+            "text1": "",
+            "list": ["Desplazamiento: 2328 cc","Combustible específico: 250 g / kwh 184 g/hph","Sistema de arranque: A mano en la extensión del árbol de levas / Arranque eléctrico opcional","Aceite lubricante: SAE-30 / SAE-40 o cualquier grado equivalente","Aceite lubricante: 6.75 Lts","Peso bruto: 385 kgs"]
+
+
+        }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "SHD 13",
+			"image": "Lovson/Lovson Motor SHD13, SHD16, SHD20, DN25.jpg",
+            "text1": "",
+            "list": ["Desplazamiento: 1248 cc","Combustible específico: 250 g / kwh 184 g/hph","Sistema de arranque: A mano en la extensión del árbol de levas / Arranque eléctrico opcional","Aceite lubricante: SAE-30 / SAE-40 o cualquier grado equivalente","Aceite lubricante: 6.75 Lts","Peso bruto: 335 kgs"]
+                }
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "SHD 16",
+			"image": "Lovson/Lovson Motor SHD13, SHD16, SHD20, DN25.jpg",
+            "text1": "",
+            "list": ["Desplazamiento: 1560 cc","Combustible específico: 250 g / kwh 184 g/hph","Sistema de arranque: A mano en la extensión del árbol de levas / Arranque eléctrico opcional","Aceite lubricante: SAE-30 / SAE-40 o cualquier grado equivalente","Aceite lubricante: 6.75 Lts","Peso bruto: 335 kgs"]
+                }
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "SHD 20",
+			"image": "Lovson/Lovson Motor SHD13, SHD16, SHD20, DN25.jpg",
+            "text1": "",
+            "list": ["Desplazamiento: 1798 cc","Combustible específico: 250 g / kwh 184 g/hph","Sistema de arranque: A mano en la extensión del árbol de levas / Arranque eléctrico opcional","Aceite lubricante: SAE-30 / SAE-40 o cualquier grado equivalente","Aceite lubricante: 6.75 Lts","Peso bruto: 355 kgs"]
+                }
+    }]    
+}

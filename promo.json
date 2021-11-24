@@ -1,0 +1,13 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "PROMOCIÓN FS 220",
+            "image": "Promocion/OKTOBERFEST_FS220.jpg",
+            "text1": "Válido del 12 al 21 de Octubre de 2020 o hasta agotar existencias.",
+            "list": []
+
+
+        }
+    }]    
+}

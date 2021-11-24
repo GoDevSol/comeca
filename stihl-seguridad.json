@@ -1,0 +1,359 @@
+{
+    "Items": [{
+        "id": "1",
+		"prop": {
+            "title": "ADVANCE X-VENT",
+            "image": "Stihl/Seguridad/Cascos/Stihl Casco Advance X-Vent.jpg",
+            "text1": "Innovado casco, con buen reparto de peso. Protector auditivo con diseño plano. Arnes interior ajustable a la cabeza. Aperturas de ventilacion. Pequeña visera para mejor visibilidad. Pantalla de acero con buena visibilidad. Pegatinas reflectantes por todo el casco para mayor visibilidad. Cumple las normativas EN 352, EN 397, EN 1731.",
+            "list": []
+        }
+    },
+    {
+        "id": "2",
+		"prop": {
+            "title": "AERO LIGHT",
+            "image": "Stihl/Seguridad/Cascos/Stihl Casco Aero Light.jpg",
+            "text1": "Casco fabricado en ABS con pantalla de rejilla metálica, lo que proporciona mayor resistencia a impactos. Pantalla de protección con 3 zonas que proporcionan el 60%, 70% y 82% de visibilidad. Giratorio. (108 dBA). Con indicador de rayos UVA.",
+            "list": []
+        }
+    },
+    {
+        "id": "3",
+		"prop": {
+            "title": "DYNAMIC LIGHT",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Dynamic Light.jpg",
+            "text1": "Casco de protección especialmente ligero de policarbonato para trabajar en arboles y en suelo. Gafas de protección retráctiles integradas, diadema con ajuste de carraca. Color naranja.Barboquejo con 4 posiciones",
+            "list": []
+        }
+    },
+    {
+        "id": "4",
+		"prop": {
+            "title": "EXPERT",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Expert.jpg",
+            "text1": "Con numerosas aberturas de ventilación, protectores de oído y pantalla de rejilla de nylon plegable. Casco giratorio, por lo que se puede utilizar también sin visera, por ejemplo en el mantenimiento de árboles. Óptimo reparto del peso. Reducción del nivel sonoro SNR 28 (108 dBA). EN 352, EN 397 y EN 1731. Con indicador de rayos UVA.",
+            "list": []
+        }
+    },
+    {
+        "id": "5",
+		"prop": {
+            "title": "FUNCTION BASIC",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Function Basic.jpg",
+            "text1": "Ligero casco con pantalla de nylon. Protección en el casco contra entrada de suciedad. Protectores auditivos delgados con buena protección acústica. Ranuras de ventilación en la parte superior. Bandas internas de ajuste fácil. Según normativa EN 352, EN 397, EN 1731",
+            "list": []
+        }
+    },
+    {
+        "id": "6",
+		"prop": {
+            "title": "FUNCTION UNIVERSAL",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Function Universal.jpg",
+            "text1": "Casco fabricado en ABS con pantalla de rejilla metálica, lo que proporciona mayor resistencia a impactos. Pantalla de protección con 3 zonas que proporcionan el 60%, 70% y 82% de visibilidad. Giratorio. (108 dBA). Con indicador de rayos UVA",
+            "list": []
+        }
+    },
+    {
+        "id": "7",
+		"prop": {
+            "title": "INTEGRA",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Integra.jpg",
+            "text1": "Motor Kohler® XTX OHV, par bruto 6.75 pies-libra*, 149 cc, con estárter automático, sin necesidad de cebado o estárter, sin cambios de aceite.",
+            "list": ["Casco con visor grande y gafas integradas","Ofrece protección para los oídos","El casco esta hecho de polietileno","Apto para un nivel de sonido de 106 dBA"]
+        }
+
+
+    },
+    {
+        "id": "8",
+		"prop": {
+            "title": "VENT PLUS",
+			"image": "Stihl/Seguridad/Cascos/Stihl Casco Vent Plus.jpg",
+            "text1": "El casco de poda VENT PLUS es perfecto para trabajos que requieren acceso mediante cuerda. Además cuenta con perfecta ventilación y correas para el ajuste perfecto.",
+            "list": []
+        }
+    },
+    {
+        "id": "9",
+		"prop": {
+            "title": "VENT PLUS FULL",
+            "image": "Stihl/Seguridad/Cascos/Stihl Casco Vent Plus full.jpg",
+            "text1": "Casco con protectores de oído, muy adecuado para trabajos de poda. 5 grandes aberturas de ventilación en cada lado. Diseño moderno. Visera de nylon, correas ajustables. Barbuquejo con 4 posiciones de fácil ajuste. SNR 28 (108 dB(A)). Este casco tiene una caducidad de 10 años desde la fecha de fabricación.",
+            "list": []
+        }
+    },
+    {
+        "id": "10",
+		"prop": {
+            "title": "CARVER",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Carver.jpg",
+            "text1": "Cómodos guantes en cuero negro sintético, con Spandex® naranja y neopreno. Dedos con aberturas de ventilación laterales. Puño flexible con velcro. Alta sensibilidad y buen tacto.",
+            "list": []
+        }
+    },
+    {
+        "id": "11",
+		"prop": {
+            "title": "CRISS-CROSS",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Criss-Cross.jpg",
+            "text1": "",
+            "list": []
+        }
+    },
+    {
+        "id": "12",
+		"prop": {
+            "title": "ECONOMY",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Economy.jpg",
+            "text1": "Cómodos guantes con protección anticorte en ambos dorsos de la mano, ideal para trabajos de poda. EN 381. Clase de protección 0 (aprox 16 m/s). Combinación de cuero y tela. Puño elástico. Tallas S, M y L.",
+            "list": []
+        }
+    },
+    {
+        "id": "13",
+		"prop": {
+            "title": "FS ERGO",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes FS Ergo.jpg",
+            "text1": "Guantes para trabajos forestales de cuero de cabra, dorso téxtil, tiras reflectantes, superficies interiores con elementos amortiguantes, cierre de velcro.",
+            "list": []
+        }
+    },
+    {
+        "id": "14",
+		"prop": {
+            "title": "MECHANIC",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Mechanic.jpg",
+            "text1": "Guante tejido MECÁNICO. Ajuste excelente. Nylon con revestimiento de PU. Agradable para la piel. Alta transpirabilidad. Tamaños: M, L, XL.",
+            "list": []
+        }
+    },
+    {
+        "id": "15",
+		"prop": {
+            "title": "MECHANIC GRIP",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Mechanic Grip.jpg",
+            "text1": "Tejido de poliéster con látex crudo. Transpirables en el dorso y en la parte superior de los dedos. Robustos, para trabajos con humedad. Colores: negro/naranja.",
+            "list": []
+        }
+    },
+    {
+        "id": "16",
+		"prop": {
+            "title": "SPECIAL ERGO",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Special Ergo.jpg",
+            "text1": "Guantes de trabajo pofesionales DYNAMIC SensoLight, con puño elástico con cierre de velcro y tiras reflectantes. Para el manejo de máquinas (como motosierras, por ejemplo) que exigen mucha sensibilidad en las manos. Colores: gris/naranja.",
+            "list": []
+        }
+    },
+    {
+        "id": "17",
+		"prop": {
+            "title": "SPEZIAL",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Spezial.jpg",
+            "text1": "Guante de 5 dedos con puño de protección de corte largo fabricado en piel de vacuno. Protección de corte en el dorso de ambas manos para una mayor protección durante todos los trabajos de motosierra. Ideal para trabajos de mantenimiento de árboles. Cumple con EN 388 y EN 420. Clase de protección contra cortes: 1 (corresponde a 20 m / s).",
+            "list": []
+        }
+    },
+    {
+        "id": "18",
+		"prop": {
+            "title": "UNIVERSAL I",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Universal I.jpg",
+            "text1": "",
+            "list": []
+        }
+    },
+    {
+        "id": "19",
+		"prop": {
+            "title": "UNIVERSAL II",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Universal lI.jpg",
+            "text1": "Los guantes de protección Stihl UNIVERSAL II forman parte de la gama de equipos para la protección laboral, categoría de protección de las manos. Están fabricados en lona y piel de vacuno y se recomiendan para uso universal. Material: lona y piel de vacuno; Los guantes están sujetos a EN388: Resistencia a la abrasión (1 a 4): 3; Resistencia al corte (de 1 a 5): 1; Resistencia a la rotura (1 a 4): 1; Resistencia a la perforación (1 a 4): 2; Color gris.",
+            "list": []
+        }
+    },
+    {
+        "id": "20",
+		"prop": {
+            "title": "WORKER",
+            "image": "Stihl/Seguridad/Guantes/Stihl Guantes Worker.jpg",
+            "text1": "Guantes de cuero flexible, banda elástica en la muñeca, ergonómicos.",
+            "list": []
+        }
+    },
+    {
+        "id": "21",
+		"prop": {
+            "title": "CONCEPT 23",
+            "image": "Stihl/Seguridad/Protectores/Stihl Protector de oidos Concept 23.jpg",
+            "text1": "Extremadamente ligero, ajustable, almohadillas suaves que aportan comodidad, certificación EN 352, SNR 23 (hasta 103 dB(A)), cápsulas con diadema giratorias para mayor confort en la colocación de las protecciones.",
+            "list": []
+        }
+    },
+    {
+        "id": "22",
+		"prop": {
+            "title": "CONCEPT 24",
+            "image": "Stihl/Seguridad/Protectores/Stihl Protector de oidos Concept 24.jpg",
+            "text1": "Diadema resistente de metal que permite la circulación de aire. Almohadillas suaves que aportan comodidad Certificación EN 352, (hasta 104 dB(A)).",
+            "list": []
+        }
+    },
+    {
+        "id": "23",
+		"prop": {
+            "title": "CONCEPT 24F",
+            "image": "Stihl/Seguridad/Protectores/Stihl Protector de oidos Concept 24F.jpg",
+            "text1": "Diadema acolchada, sistema plegable de almohadillas suaves que aportan comodidad EN 352, SNR 24 (hasta 104 dB(A).",
+            "list": []
+        }
+    },
+    {
+        "id": "24",
+		"prop": {
+            "title": "DIADEMA",
+            "image": "Stihl/Seguridad/Protectores/Stihl Protector de oidos Diadema.jpg",
+            "text1": "Extremadamente ligeras con un peso de (10g), plegables, EN 352, hasta 104 dB(A), no presionan el canal auditivo gracias a su forma.",
+            "list": []
+        }
+    },
+    {
+        "id": "25",
+		"prop": {
+            "title": "TAPONES",
+            "image": "Stihl/Seguridad/Protectores/Stihl Protector de oidos Tapones.jpg",
+            "text1": "Diseñados con forma cónica de espuma de poliuretano con buena capacidad de aislamiento. Material blando que se adapta de forma agradable al canal auditivo.  Resistencia hasta 113dB(A)",
+            "list": []
+        }
+    },
+    {
+        "id": "26",
+		"prop": {
+            "title": "ASTROSPEC",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Astrospec.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular capacidad de ajustar bastidor de las gafas, vidrio resistente a rayones protege 100% a los rayos UV, optimas en luz solar potente.",
+            "list": []
+        }
+    },
+    {
+        "id": "27",
+		"prop": {
+            "title": "ASTROSPEC TRANSPARENTE",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Astrospec Transparente.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular capacidad de ajustar bastidor de las gafas, vidrio resistente a rayones protege 100% a los rayos UV, optimas en trabajos con poca luz.",
+            "list": []
+        }
+    },
+    {
+        "id": "28",
+		"prop": {
+            "title": "CONTRAST AMARILLO",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Contrast Amarillo.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV, aumento de contraste muy elevado.",
+            "list": []
+        }
+    },
+    {
+        "id": "29",
+		"prop": {
+            "title": "CONTRAST",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Contrast Negro.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV,  optimas en luz solar potente. ",
+            "list": []
+        }
+    },
+    {
+        "id": "30",
+		"prop": {
+            "title": "LIGHT",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Light.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV, diseño deportivo, optimas en luz solar potente.",
+            "list": []
+        }
+    },
+    {
+        "id": "31",
+		"prop": {
+            "title": "LIGHT PLUS NEGRO",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Light Plus Negro.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV, diseño casual, sistema antivaho, optimas en luz solar potente amplitud de vision. ",
+            "list": []
+        }
+    },
+    {
+        "id": "32",
+		"prop": {
+            "title": "LIGHT PLUS TRANSPARENTE",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Light Plus Trasnparente.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV, diseño casual, sistema antivaho, optimas en luz solar potente amplitud de vision. ",
+            "list": []
+        }
+    },
+    {
+        "id": "33",
+		"prop": {
+            "title": "SUPER FIT",
+            "image": "Stihl/Seguridad/Gafas/Stihl Gafas Super Fit.jpg",
+            "text1": "Diseñadas con norma de seguridad EN 166, protección ocular, vidrio resistente a rayones protege 100% a los rayos UV, diseño deportivo y liviano, optimas en luz solar potente.",
+            "list": []
+        }
+    },
+    {
+        "id": "34",
+		"prop": {
+            "title": "PANTALÓN ADVANCE X-LIGH",
+            "image": "Stihl/Seguridad/Ropa/Stihl Ropa de Trabajo Pantalon Advance X-Light.jpg",
+            "text1": "Este modelo de pantalón con protección anticorte es el más ligero de la gama STIHL. Muy transpirable, con material AVERTIC™ pro lite (EN 381), y detalles reflectantes. El tejido está compuesto por seis capas, de un material hasta un 20% más ligero que el material ADVANCE. Se presentan de color negro y consistencia elástica, debido al material ProElast. Además tiene bolsillos con cremallera, cremallera grande para ponerse y quitarse el pantalón fácilmente y detalles reflectantes para incrementar la visibilidad.",
+            "list": []
+        }
+    },
+    {
+        "id": "35",
+		"prop": {
+            "title": "PANTALÓN CON PETO ADVANCE X-LIGHT",
+            "image": "Stihl/Seguridad/Ropa/Stihl Ropa de Trabajo Pantalon con Peto Advance X-Light.jpg",
+            "text1": "Este peto con protección anticorte es el más ligero de la gama STIHL. Muy transpirable, con material AVERTIC™ pro lite (EN 381) y con detalles reflectantes. El tejido está compuesto por seis capas, de un material hasta un 20% más ligero que el material ADVANCE. Se presentan de color negro y consistencia elástica, debido al material ProElast. Además tiene bolsillos con cremallera, cremallera grande para ponerse y quitarse el peto fácilmente y detalles reflectantes para incrementar la visibilidad.",
+            "list": []
+        }
+    },
+    {
+        "id": "36",
+		"prop": {
+            "title": "PERNERA FUNCTION",
+            "image": "Stihl/Seguridad/Ropa/Stihl Ropa de Trabajo Pernera Function.jpg",
+            "text1": "Para uso con motosierras, con protección anticorte en la zona delantera de las piernas. Con forro interior, bordes suaves, diseño vaquero. Gran logo STIHL reflectante en la derecha, con 5 cinchas con forma de Y. 65% poliéster, 35% algodón, mas confort cintas elásticas. EN 381, protección anticorte clase 1 (=ˆ 20 m/s).).",
+            "list": []
+        }
+    },
+    {
+        "id": "37",
+		"prop": {
+            "title": "BOTAS WORKER S3",
+            "image": "Stihl/Seguridad/Calzado/Stihl Calzado Botas Worker S3.jpg",
+            "text1": "Material externo de cuero, impermeable de secado rápido, tiras reflectivas de ambos lados suela exterior de goma resistente al combustible y aceite, (ISO 20345). Tallas desde 36 a 42.",
+            "list": []
+        }
+    },
+    {
+        "id": "38",
+		"prop": {
+            "title": "WORKER S2",
+            "image": "Stihl/Seguridad/Calzado/Stihl Calzado Worker S2.jpg",
+            "text1": "Material externo de cuero, impermeable de secado rápido, tiras reflectivas de ambos lados suela exterior de goma resistente al combustible y aceite, (ISO 20345). Tallas disponibles 39 a 42.",
+            "list": []
+        }
+    },
+    {
+        "id": "39",
+		"prop": {
+            "title": "BOTA DE SEGURIDAD PREMIUM",
+            "image": "Stihl/Seguridad/Calzado/botas.jpeg",
+            "text1": "Diseñada para un alto confort y la máxima seguridad para el usuario de la motosierra. Dispone de una altura de protección de 25 cm y protección anti-corte de 270º a su alrededor (cumpliendo 20 m / s en ISO 17249: 2013). El zapato tiene puntera de acero y forro interior con mayor flexibilidad. Sus suelas perfiladas gruesas permiten una posición sólida y un mejor agarre  Disponible en tallas desde 38 a la 43",
+            "list": []
+        }
+    }
+    
+
+]
+    
+}

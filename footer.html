@@ -1,0 +1,60 @@
+<footer class="footer-copyright">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						
+						<div class="foot-copyright pull-left">
+							<img src="./assets/images/logo/logocomecainvertido.png" alt="">
+							<p>
+								Copyright &copy;  COMECA 2020
+							</p>
+						</div><!--/.foot-copyright-->
+					</div><!--/.col-->
+					<div class="col-sm-8">
+						<div class="foot-menu pull-right">	  
+							<ul>
+								<li style="padding-right: 15px;"><a href="index.html" class="footer-a">INICIO</a></li>
+								<li style="padding-right: 15px;  border-left-style: solid;border-color: #5CBCD4;border-width: thin;"><a href="#" class="footer-a">MARCAS</a></li>
+								<li style="padding-right: 15px; border-left-style: solid;border-color: #5CBCD4;border-width: thin;"><a href="ayuda.html" class="footer-a">AYUDA</a></li>
+								<li style="padding-right: 15px; border-left-style: solid;border-color: #5CBCD4;border-width: thin;"><a href="contacto.html" class="footer-a">CONTACTO</a></li>
+								<li style="padding-right: 15px; border-left-style: solid;border-color: #5CBCD4;border-width: thin;"><a href="Post.php" class="footer-a">BLOG</a></li>
+								<li style="padding-right: 15px; border-left-style: solid;border-color: #5CBCD4;border-width: thin;"><a href="login.html" class="footer-a">LOG IN</a></li>
+							</ul>
+						</div><!-- /.foot-menu-->
+					</div><!--/.col-->
+				</div><!--/.row-->
+				<div id="scroll-Top">
+					<i class="fa fa-angle-double-up return-to-top" id="scroll-top" data-toggle="tooltip" data-placement="top" title="" data-original-title="Back to Top" aria-hidden="true"></i>
+				</div><!--/.scroll-Top-->
+			</div><!-- /.container-->
+
+		</footer><!-- /.footer-copyright-->
+		<!-- footer-copyright end -->
+		
+		<script>
+
+			function estadoLogIn() {
+				$.ajax({
+					url : './sesion.php',
+					type : 'POST',
+					dataType:'json', // add json datatype to get json
+					data: '',
+					success : 
+					function (data) {
+						determinarEstado(data)
+					} 
+				})
+			}
+		
+			function determinarEstado(objSesion) {
+				var ObjSesion = objSesion;
+				if (ObjSesion['iniciada']== true && ObjSesion['Administrador']== true ) {
+					window.location.href = "./admin.php";
+				}else if (ObjSesion['iniciada']== true && ObjSesion['Administrador']== false) {
+					window.location.href = "./Usuario.php";
+				}else if (ObjSesion['iniciada']== false){
+					window.location.href = "./login.html";
+				}
+			}
+			
+		</script>

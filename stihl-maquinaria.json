@@ -1,0 +1,655 @@
+{
+    "Items": [
+        {
+        "id": "1",
+		"prop": {
+            "title": "MS 170",
+            "image": "Stihl/Maquinaria/Motosierras/Stihl MS 170.jpg",
+            "text1": "Pequeña motosierra de gasolina, especialmente recomendada para las labores de mantenimiento de los árboles o cortar leña para la cocina y trabajos de carpintería... Buena para talar árboles de hasta 30 cm de diámetro.",
+            "list": ["Cilindrada: 30.1 cc","Potencia: 1.2/1.6 kW/CV","Volumen del depósito: 250 cc","Peso (sin combustible, espada ni cadena): 9.00 lb","Largo de espada: 14”","Cadena STIHL Oilomatic: 3/8” Picco 1.1 mm"]
+            
+            }
+        },
+        {
+            "id": "2",
+            "prop": {
+                "title": "MS 180 C-BE",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 180 C.jpg",
+                "text1": "Modelo básico para cortar leña, trabajos de carpintería, mantenimiento de árboles.  Con más potencia que MS 170 y tensado lateral, para un tensado seguro y sencillo de la cadena. Versión de 14” para cortar ramas más gruesas.",
+                "list": ["Cilindrada: 31.8 cc",                "Potencia: 1.4/1.9 kW/CV",                "Volumen del depósito: 250 cc",                "Peso (sin combustible, espada ni cadena): 9.00 lb",                "Largo de espada: 14”",                "Cadena STIHL Oilomatic: 3/8” Picco 1.1 mm"]                
+                }
+                
+        },
+        {
+            "id": "3",
+            "prop": {
+                "title": "MS 193 T",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 193 TC.jpg",
+                "text1": "Ligera motosierra de poda con motor STIHL 2 MIX. Excelente relación peso/potencia, muy manejable. Esta motosierra es especialmente indicada para trabajos en el árbol y se recomienda el uso solamente para la poda y por personal cualificado, cumple con la normativa EU5, tornillos imperdibles en la tapa del Piñón de cadena y con arranque fácil STIHL ErgoStart.",
+                "list": ["Cilindrada: 30.1 cc"                ,"Potencia: 1.3/1.8 kW/CV"                ,"Volumen del depósito: 270 cc"                ,"Peso (sin combustible, espada ni cadena): 7.26 lb"                ,"Largo de espada:  14”"                ,"Cadena STIHL Oilomatic: 3/8” Picco 1.1 mm"]
+                
+                }
+        },
+        {
+            "id": "4",
+            "prop": {
+                "title": "MS 194 T",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 194 T.jpg",
+                "text1": "Ligera motosierra de poda con motor STIHL 2 MIX. Excelente relación peso potencia, muy manejable. Esta motosierra es especialmente indicada para trabajos con el árbol y se recomienda el uso solamente para la poda y por personal cualificado, cumple con la normativa EU5, tornillos imperdibles en la tapa del piñón de cadena y con arranque fácil STIHL ErgoStart.",
+                "list": ["Cilindrada: 31.8 cc",                "Potencia: 1.4/1.9 kW/CV",                "Volumen del depósito: 270 cc",                "Peso (sin combustible, espada ni cadena): 7.26 lb",                "Largo de espada: 14”",                "Cadena STIHL Oilomatic: 3/8” Picco 1.1 mm"]
+                
+                
+                }
+        },
+        {
+            "id": "5",
+            "prop": {
+                "title": "MS 250",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 250.jpg",
+                "text1": "Robusta y potente motosierra con excelente relación peso/potencia, sistema antivibración STIHL, cierre sin herramientas del depósito. Ideal para cortar leña y para construir con madera. Adecuada para talar árboles pequeños.",
+                "list": ["Cilindrada: 45.4 cc",                "Potencia: 2.3/3.1 kW/CV",                "Volumen del depósito: 250 cc",                "Peso (sin combustible, espada ni cadena): 10.12 lb",                "Largo de espada: 14”",                "Cadena STIHL Oilomatic: 3/8” Picco 1.1mm"]                
+                }
+        },
+        {
+            "id": "6",
+            "prop": {
+                "title": "MS 260",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 260.jpg",
+                "text1": "Motosierra de gasolina idónea para trabajos de poda, corte de leña y explotación forestal de arboledas medianas. Sistema antivibración STIHL.  Tensado lateral de la cadena, válvula de descompresión, arranque STIHL ElastoStart y cierre del depósito sin herramientas.",
+                "list": ["Cilindrada: 50.2 cc","Potencia: 2.6/3.5 kW/CV","Volumen del depósito: 290 cc","Peso (sin combustible, espada ni cadena): 10.56 lb","Largo de espada: 20”"]
+
+                
+                }
+        },
+        {
+            "id": "7",
+            "prop": {
+                "title": "MS 310",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 310.jpg",
+                "text1": "Motosierra de gasolina de reducidas vibraciones, con un concepto de motor de bajo consumo y que cumple con la normativa de emisiones de gases EU II, y un sistema de filtro que alarga los intervalos de limpieza.",
+                "list": ["Cilindrada: 59.0 cc",                "Potencia: 3.2/4.4 kW/CV",                "Volumen del depósito: 560 cc",                "Peso (sin combustible, espada ni cadena): 13.00 lb",                "Largo de espada: 25”",                "Cadena STIHL Oilomatic: 3/8” 1.6mm"]                
+                
+                }
+        },
+        {
+            "id": "8",
+            "prop": {
+                "title": "MS 361",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 361.jpg",
+                "text1": "Diseñada para una aceleración dinámica y alto par motor, con excelente relación peso/potencia. Sistema antivibración STIHL. Tensado lateral de la cadena. Válvula de descompresión, jalador STIHL ElastoStart, compensador y cierre del depósito sin herramienta.",
+                "list": ["Cilindrada: 59.0 cc",                "Potencia: 3.4/4.6 kW/CV","Volumen del depósito: 325 cc","Peso (sin combustible, espada ni cadena): 23.32 lb","Largo de espada:  25”","Cadena STIHL Oilomatic: 3/8” 1.6mm"]                                
+                }
+        },
+        {
+            "id": "9",
+            "prop": {
+                "title": "MS 382",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 382.jpg",
+                "text1": "Motosierra muy buena para trabajos en arboledas medianas.  Tensado lateral de cadena para efectuar el tensado de forma fácil y segura, cierre del depósito sin herramientas para llenarlo de modo fácil y seguro.  El modelo de mayor demanda en Guatemala.",
+                "list": ["Cilindrada: 72.2 cc",                "Potencia: 3.9/5.3 kW/CV",                "Volumen del depósito: 360 cc",                "Peso (sin combustible, espada ni cadena): 13.64 lb",                "Largo de espada: 25” ó 30”",               "Cadena STIHL Oilomatic: 3/8” 1.6mm"]                               
+                }
+        },
+        {
+            "id": "10",
+            "prop": {
+                "title": "MS 651",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 651.jpg",
+                "text1": "Motosierra de alto rendimiento, para trabajos exigentes en grandes arboledas.  Sistema antivibración STIHL, filtro HD2 para un excelente filtrado, bomba de aceite de caudal regulable de gran capacidad, de alto rendimiento, retenedor de cadena de serie.",
+                "list": ["Cilindrada: 91.1 cc",                "Potencia: 5.0/6.8 kW/CV",                "Volumen del depósito: 850 cc",                "Peso (sin combustible, espada ni cadena): 16.28 lb",                "Largo de espada:  30”",                "Cadena STIHL Oilomati:c 3/8” 1.6 mm"]               
+                
+                }
+        },
+        {
+            "id": "11",
+            "prop": {
+                "title": "MS 661",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 661 C.jpg",
+                "text1": "La motosierra de competición de la serie STIHL TIMBERSPORT.  Motosierra para los trabajos forestales más exigentes.  Bomba de aceite de caudal regulable de gran capacidad, filtro HD2 para un excelente filtrado.",
+                "list": ["Cilindrada: 91.1 cc",                "Potencia: 5.4/7.3 kW/CV",                "Volumen del depósito: 850 cc",                "Peso (sin combustible, espada ni cadena): 16.28 lb",                "Largo de espada:  30”",                "Cadena STIHL Oilomatic: 3/8” 1.6 mm"]                                
+                }
+        },
+        {
+            "id": "12",
+            "prop": {
+                "title": "MS 780",
+                "image": "Stihl/Maquinaria/Motosierras/Stihl MS 780.jpg",
+                "text1": "Motosierra de alta potencia para los trabajos forestales más exigentes.  Válvula de descompresión para un arranque sin esfuerzo.  Filtro HD2 para una larga vida útil del filtro, cierre sin herramientas del depósito para llenarlo de modo fácil y seguro.",
+                "list": ["Cilindrada: 121.6 cc",                "Potencia: 5.6/7.6 kW/CV","Volumen del depósito: 1,300 cc","Peso (sin combustible, espada ni cadena): 21.56 lb","Largo de espada: 36”","Cadena STIHL Oilomatic: .404” 1.6 mm"]                                
+                }
+        },
+               {
+            "id": "13",
+            "prop": {
+                "title": "SG 31",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SG 31.jpg",
+                "text1": "Pulverizador manual con depósito de 5 litros para cuidar plantas, erradicar maleza, fertilizar y combatir parásitos. Ideal para usuarios particulares con jardines grandes. Con tubo telescópico y boquillas de chorro plano adicionales.",
+                "list": ["Peso (sin líquido): 3.96 libras","Volumen del depósito: 5.0 litros"]                
+                }
+        },
+               {
+            "id": "14",
+            "prop": {
+                "title": "SG 71",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SG 71.jpg",
+                "text1": "Pulverizador de mochila para uso profesional. Manejo cómodo con posibilidad de colocar la palanca de la bomba a la izquierda o a la derecha. Válvula de cierre ergonómica con manómetro. Correas de gran calidad y placa dorsal moldeada para una mayor ergonomía.",
+                "list": ["Peso (sin líquido): 11.0 libras","Volumen del depósito: 18.0 litros"]                
+                
+            }
+        },
+        {
+            "id": "15",
+                "prop": {
+                "title": "SR 200",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SR 200.jpg",
+                "text1": "Ligera fumigadora, muy fácil de llevar gracias a su diseño compacto y a la proximidad al cuerpo de su centro de Gravedad, ideal para cultivos de hasta unos 2.50 metros de altura.  Sistema de arranque simplificado, empuñadura Multifuncional de una mano y collar protector antiderrame. De serie con rejillas de desvío cónica, de un desvío y de doble desvío.",
+                "list": ["Cilindra: 27.2 cm3",                "Potencia: 0.8/1.1 kW/CV",                "Volumen del depósito combustible: 1.1 litros",                "Capacidad del depósito de líquido: 10 litros",                "Alcance horizontal máximo: 9.0 m",                "Peso (sin líquido ni combustible): 17.2 libras"]
+                
+                
+            }
+        },
+        {
+            "id": "16",
+                "prop": {
+                "title": "SR 420",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SR 420.jpg",
+                "text1": "Potente fumigadora con cómodas correas. De serie con rejilla cónica, rejilla de desvío y rejilla de doble desvío.",
+                "list": ["Cilindra: 56.5 cm3",                "Potencia: 2.6/3.5 kW/CV",                "Volumen del depósito combustible: 1.5 lts",                "Capacidad del depósito de líquido: 13 litros",                "Alcance horizontal máximo: 12.0 m",                "Peso (sin líquido ni combustible): 24.4 libras"]               
+            }
+        },
+        {
+            "id": "17",
+                "prop": {
+                "title": "SR 430",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SR 430.jpg",
+                "text1": "Potente fumigadora de gran alcance, con sistema de arranque simplificado, correas cómodas y empuñadura Multifuncional de una mano. De serie con rejilla cónica, rejilla de un desvío y rejilla de doble desvío.",
+                "list": ["Cilindra: 63.3 cm3",                "Potencia: 2.9/3.9 kW/CV",                "Volumen del depósito combustible: 1.7 litros",                "Capacidad del depósito de líquido: 14 litros",                "Alcance horizontal máximo: 14.5 m",                "Peso (sin líquido ni combustible): 26.8 libras"]
+                
+            }
+        },
+        {
+            "id": "18",
+                "prop": {
+                "title": "SR 440",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SR 440.jpg",
+                "text1": "Potente fumigadora de gran alcance, con sistema de arranque simplificado, correas cómodas y empuñadura Multifuncional de una mano. De serie con rejilla cónica, rejilla de un desvío y rejilla de doble desvío. Con un depósito de líquido de 20 litros y una placa base de refuerzo de la placa dorsal.",
+                "list": ["Cilindra: 63.3 cm3",                "Potencia: 2.9/3.9 kW/CV",                "Volumen del depósito combustible: 1.7 litros",                "Capacidad del depósito de líquido: 20 litros",		                "Alcance horizontal máximo: 14.5 m",                "Peso (sin líquido ni combustible): 27.7 libras"]
+                
+                
+            }
+        },
+        {
+            "id": "19",
+                "prop": {
+                "title": "SR 450",
+                "image": "Stihl/Maquinaria/Fumigadoras/Stihl SR 450.jpg",
+                "text1": "Potente fumigadora de gran alcance, con sistema de arranque simplificado, correas cómodas y empuñadura Multifuncional de una mano. De serie con rejilla cónica, rejilla de un desvío y rejilla de doble desvío. Equipada con depósito 2 en 1 que permite su utilización tanto para pulverizar líquidos como para esparcir granulados (semillas, químicos en polvo). Dosificación cómoda y exacta.",
+                "list": ["Cilindra: 63.3 cm3",                "Potencia: 2.9/3.9 kW/CV",                "Volumen del depósito combustible: 1.7 litros",                "Capacidad del depósito de líquido: 14 litros",                "Alcance horizontal máximo: 14.5 m",                "Peso (sin líquido ni combustible): 26.8 libras"]                                
+            }
+        },
+        {
+            "id": "20",
+                "prop": {
+                "title": "FR 450",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FR 450.jpg",
+                "text1": "Chapeadora de mochila de gran potencia con una distribución de peso favorable, sistema de arranque ElastoStart y válvula de descompresión para arranque más fácil, sistema antivibración en el espaldar de la mochila, mando multifuncional con acelerador, bloqueo del acelerador e interruptor para arranque, servicio y parada. Sistema de filtro de aire de larga duración con compensador.",
+                "list": ["Cilindrada: 44.3 cc",                "Potencia: 2.1/2.9 kW/CV",                "Volumen del depósito: 68 cc",                "Peso  (sin combustible ni herramienta de corte): 23.8 lb"]                
+                
+            }
+        },
+        {
+            "id": "21",
+                "prop": {
+                "title": "FS 120",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 120.jpg",
+                "text1": "Para trabajos en superficies más amplias y en hierba resistente.  Sistema antivibración STIHL. STIHL ElastoStart, empuñadura multifuncional, manillar abierto, ajuste del manillar sin herramientas, arnés.",
+                "list": ["Cilindrada: 30.8 cc",                "Potencia: 1.3/1.8 kW/CV",                "Volumen del depósito 44 cc",                "Peso (sin combustible ni herramienta de corte): 13.8 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "22",
+                "prop": {
+                "title": "FS 160",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 160.jpg",
+                "text1": "Potente chapeadora para trabajos de superficie en hierba resistente. Sistema antivibración, empuñadura multifuncional, manillar abierto.",
+                "list": ["Cilindrada: 29.8 cc",                "Potencia: 1.4/1.95 kW/CV",                "Volumen del depósito 58 cc",                "Peso (sin combustible ni herramienta de corte): 16.3 lb"]
+                
+            }
+            
+        },
+        {
+            "id": "23",
+                "prop": {
+                "title": "FS 220",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 220.jpg",
+                "text1": "Chapeadora potente, de bajo peso y excelente balance. Sistema antivibrador, empuñadura doble ajustable sin herramientas, empuñadura multifuncional, recomendada para grandes superficies con matorrales resistentes y aclarar arbustos nudosos.",
+                "list": ["Cilindrada: 35.2 cc",                "Potencia: 1.7/2.5 kW/CV",                "Volumen del depósito 58 cc",                "Peso: (sin combustible ni herramienta de corte) 16.9 lb"]
+                
+            }            
+        },
+        {
+            "id": "24",
+                "prop": {
+                "title": "FS 250",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 250.jpg",
+                "text1": "Chapeadora para trabajos exigentes de siega y en grandes superficies.  Sistema antivibración STIHL de 1 punto, STIHL ElastoStart, empuñadura multifuncional, manillar abierto, ajuste del manillar sin herramientas.",
+                "list": ["Cilindrada: 40.2 cc",                "Potencia: 1.6/2.2 kW/CV",                "Volumen del depósito 58 cc",                "Peso (sin combustible ni herramienta de corte): 13.86 lb"]                
+            }
+        },
+        {
+            "id": "25",
+                "prop": {
+                "title": "FS 300",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 300.jpg",
+                "text1": "Chapeadora robusta y potente para trabajos de siega enredada y matorrales en grandes superficies. Sistema antivibración de 4 puntos, empuñadura multifuncional y manillas abierto.",
+                "list": ["Cilindrada: 30.8 cc",                "Potencia: 1.3/1.8 kW/CV",                "Volumen del depósito 58 cc",                "Peso (sin combustible ni herramienta de corte): 16.3 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "26",
+                "prop": {
+                "title": "FS 350",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 350.jpg",
+                "text1": "Chapeadora robusta y potente para trabajos de siega enredada y matorrales en grandes superficies. Sistema antivibración de 4 puntos, empuñadura multifuncional y manillas abierto.",
+                "list": ["Cilindrada: 40.2 cc",                "Potencia: 1.6/2.2 kW/CV",                "Volumen del depósito: 58 cc",                "Peso (sin combustible ni herramienta de corte):16.9 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "27",
+                "prop": {
+                "title": "FS 38",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 38.jpg",
+                "text1": "Ligera y ergonómica chapeadora muy bien equipada. Ideal para mantener en orden su jardín, muros, árboles y arbustos, así como para segar pequeñas superficies de césped.",
+                "list": ["Cilindrada: 27.2 cc","Potencia: 0.65/0.90 kW/CV","Volumen del depósito: 33 cc","Peso (sin combustible ni herramienta de corte): 9.0 lb"]                
+            }
+        },
+        {
+            "id": "28",
+                "prop": {
+                "title": "FS 380",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 380.jpg",
+                "text1": "Chapeadora potente, maniobrable y con excelente balance, bomba de combustible manual para facilitar el arranque. Sistema antivibratorio, empuñadura doble ajustable sin herramientas, empuñadura multifuncional, recomendada para matorrales resistentes y aclarar arbustos nudosos.",
+                "list": ["Cilindrada: 40.2 cc",                "Potencia: 2.0/2.7 kW/CV","Volumen del depósito: 58 cc","Peso (sin combustible ni herramienta de corte): 17.4 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "29",
+                "prop": {
+                "title": "FS 450",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 450.jpg",
+                "text1": "Chapeadora de gran potencia, de peso bajo y excelente balance, sistema de arranque ElastoStart y válvula de descompresión para arranque más fácil, sistema antivibración de 4 puntos, empuñadura doble para mayor control ajustable sin herramientas, mando multifuncional con acelerador, bloqueo del acelerador e interruptor para arranque, servicio y parada. Sistema de filtro de aire de larga duración con compensador.",
+                "list": ["Cilindrada: 44.3 cc",                "Potencia: 2.1/2.9 kW/CV",                "Volumen del depósito: 68 cc",                "Peso  (sin combustible ni herramienta de corte): 17.8 lb"]                
+                
+            }
+        },
+        {
+            "id": "30",
+                "prop": {
+                "title": "FS 55",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 55.jpg",
+                "text1": "Versátil chapeadora con manillar abierto para un manejo de la máquina ergonómico y sin esfuerzo. Especialmente adecuada para segar pequeñas superficies y mantener en orden su jardín. Con herramienta de corte válida también para la siega de hierba enredada, juncos y zarzales.",
+                "list": ["Cilindrada: 27.2 cc",                "Potencia: 0.75/1.0 kW/CV","Volumen del depósito: 33 cc","Peso (sin combustible ni herramienta de corte): 10.8 lb"]                                
+            }
+            
+        },
+        {
+            "id": "31",
+                "prop": {
+                "title": "FS 55 R",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 55R.jpg",
+                "text1": "Chapeadora versátil con manillar cerrado que permite una óptima libertad de movimiento. Especialmente adecuada para segar pequeñas superficies y mantener en orden su jardín. Con herramienta de corte válida también para la siega de hierba enredada, juncos y zarzales.",
+                "list": ["Cilindrada: 27.2 cc",                "Potencia: 0.75 kW/CV",                "Volumen del depósito: 33 cc",                "Peso (sin combustible ni herramienta de corte): 9.8 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "32",
+                "prop": {
+                "title": "FS 85",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 85.jpg",
+                "text1": "Potente chapeadora para soportar largos y frecuentes períodos de utilización. Manillar abierto para un manejo de la máquina ergonómico y sin esfuerzo. Trabaja cómodamente y de forma rentable en maleza dura, arbustos leñosos o grandes superficies de césped. Herramienta de corte válida también para la siega ocasional de arbustos y árboles finos.",
+                "list": ["Cilindrada: 25.4 cc",                "Potencia: 0.95/1.3 kW/CV","Volumen del depósito: 44 cc","Peso: (sin combustible ni herramienta de corte) 11.5 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "33",
+                "prop": {
+                "title": "FS 85 R",
+                "image": "Stihl/Maquinaria/Chapeadoras/Stihl FS 85R.jpg",
+                "text1": "Potente chapeadora para soportar largos y frecuentes períodos de utilización. Manillar cerrado que permite una óptima libertad de movimiento. Trabaja cómodamente y de forma rentable en maleza dura, arbustos leñosos o grandes superficies de césped. Herramienta de corte válida también para la siega ocasional de arbustos y árboles finos.",
+                "list": ["Cilindrada: 25.4 cc",                "Potencia: 0.95/1.3 kW/CV",                "Volumen del depósito 44 cc",                "Peso (sin combustible ni herramienta de corte): 11.0 lb"]
+                
+                
+            }
+        },
+        {
+            "id": "34",
+                "prop": {
+                "title": "ASPIRADORA SE 122",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl SE 122.jpg",
+                "text1": "Aspiradora eléctrica con alta potencia de aspiración en seco y mojado. Sistema de filtrado profesional con alto grado de separación de residuos y depósito de suciedad de plástico. El tubo de aspiración es de acero para una larga durabilidad, depósito de aspiración de 30L para intervalos de trabajo largos. Bolsa de filtro de vellón, que a diferencia del papel presenta mayor capacidad de separación, mayor resistencia a la rasgadura y mayor resistencia a la humedad.",
+                "list": ["Potencia 1.5 kW",                "Peso 26.6 libras",                "Voltaje de trabajo: 120 V (60 Hz)",                "Capacidad del tanque 30 litros",                "Longitud del tubo de aspirado 3.0 m"]                
+                
+            }
+        },
+        {
+            "id": "35",
+                "prop": {
+                "title": "ASPIRADORA SE 61",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl SE 61.jpg",
+                "text1": "Aspiradora eléctrica con alta potencia de aspiración en seco y mojado. Sistema de filtrado profesional con alto grado de separación de residuos y depósito de suciedad de plástico. Bolsa de filtro de vellón, que a diferencia del papel presenta mayor capacidad de separación, mayor resistencia a la rasgadura y mayor resistencia a la humedad.",
+                "list": ["Potencia: 1.0 kW",                "Peso: 16.5 libras",                "Voltaje de trabajo: 120 V (60 Hz)",                "Capacidad del tanque 25 litros",                "Longitud del tubo de aspirado: 2.5 m"]
+                
+
+                
+            }
+        },
+        {
+            "id": "36",
+                "prop": {
+                "title": "CHAPEADORA FE 60",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl FSE 60.jpg",
+                "text1": "Los cortabordes eléctricos STIHL cortan fácilmente zonas pequeñas, bordes y superficies de césped alrededor de la casa. Sus motores extremadamente silenciosos son ideales para trabajos de limpieza en zonas sensibles al ruido. El modelo STIHL FE 60 es muy adecuado para cortar los bordes de hierba y para realizar pequeños trabajos de limpieza alrededor de los árboles, caminos y escaleras y para cortar el césped de pequeñas superficies de terreno.",
+                "list": ["Potencia: 0.6 kW",                "Peso: 8.5 lb (sin combustible ni broca) libras","Voltaje de trabajo: 120 V (60 Hz)"]                
+                
+            }
+        },
+        {
+            "id": "37",
+                "prop": {
+                "title": "CHAPEADORA FSA 45",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl FSA 45.jpg",
+                "text1": "Desbrozadora de batería ultraligera y silenciosa. La FSA 45 cuenta con un acumulador de Litio-Ion de 5 celdas integrado y permite ser recargado por medio de un tomacorriente de pared. Tamaño adecuado que ofrece gran manejo y de fácil operación. Incorpora la nueva herramienta de corte PolyCut 2-2 que incrementa el rendimiento de la batería y el acabado del corte.",
+                "list": ["Peso: 5.1 libras",                "Voltaje de trabajo: 18 V",                "Herramienta de corte standard: AutoCut 2-2",                "Diámetro de corte: 25 cm"]
+                
+                
+            }
+        },
+        {
+            "id": "38",
+                "prop": {
+                "title": "CORTADORA DE CÉSPED RMA 370",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl RMA 370.jpg",
+                "text1": "Práctica y poderosa cortadora de césped a batería. Altura de corte regulable y autonomía de hasta 300m2 con una sola carga. Con indicador de llenado. Facilidad de transporte y almacenamiento. Ideal para trabajo de corte en zonas sensibles al ruido.",
+                "list": ["Peso: 30.1 libras (sin acumulador)",                "Voltaje de trabajo: 36 V","Altura variable de corte: 3-7 cm","Ancho de corte: 37 cm"]
+                
+            }
+        },
+        {
+            "id": "39",
+                "prop": {
+                "title": "CORTASETOS HSA 26",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl HSA 26.jpg",
+                "text1": "Cortasetos de batería, ligero y compacto con cuchilla para arbustos para recortar y mantener setos más pequeños y arbustos ornamentales de hojas pequeñas. Cuchillas de arbusto STIHL optimizada para obtener resultados de corte óptimos. Con cuchilla de hierba también para cortar bordes de césped. Manillar de control antideslizante para una ergonomía perfecta, cambio de cuchilla más rápido y sin herramientas, con indicador de nivel de carga para tener a la vista la capacidad restante de la batería en todo momento.",
+                "list": ["Peso: 1.8 libras (sin acumulador)","Voltaje de trabajo: 11 V","Longitud de corte: 20 cm"]
+                
+                
+            }
+        },
+        {
+            "id": "40",
+                "prop": {
+                "title": "CORTASETOS HSA 45",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl HSA 45.jpg",
+                "text1": "Un cortasetos a batería muy ligero con un buen rendimiento de corte para recortar ramas en los espacios al aire libre de su casa. Hoja de corte de un solo lado con espaciado de dientes de 24 mm, protección de corte integrada, protector de punta roscada, batería integrada con indicador de nivel de carga. Peso: 2.3 kgb. Tiempo de carga de la batería: 145 min / 210 min (80% / 100%).",
+                "list": ["Peso: 5.1 libras",                "Voltaje de trabajo: 18 V",                "Diámetro máximo de corte: 0.8 cm",                "Longitud de corte: 50 cm"]
+                
+                
+            }
+        },
+        {
+            "id": "41",
+                "prop": {
+                "title": "CORTASETOS HSA 56",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl HSA 56.jpg",
+                "text1": "Cortasetos de batería ligero, con buena potencia de corte, para el corte de setos y arbustos alrededor de la casa. Manejo fácil, silencioso. Sin necesidad de protección auditiva. Cuchilla de corte por ambos lados. Cuchilla en forma de gota para mayor sujeción de la rama. Cuchilla de 45 cm.",
+                "list": ["Peso: 6.4 libras (sin batería)",                "Voltaje de trabajo: 36 V",                "Longitud de corte: 45 cm"]
+                
+                
+            }
+        },
+        {
+            "id": "42",
+                "prop": {
+                "title": "HIDROLAVADORA RE 110",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl RE 110.jpg",
+                "text1": "Hidrolavadora de alta presión con bomba axial con émbolos de acero especial para una mayor durabilidad. Entre la manguera y la hidrolavadora se encuentra un acoplamiento antitorsión el cual impide que la manguera se torsione, un mecanismo automático de desconexión disminuye el consumo de energía y las emisiones de ruidos, este mecanismo hace que la bomba se apague cuando ya hay suficiente presión de agua.",
+                "list": ["Potencia: 1.4 kW",                "Peso: 38.7 libras",                "Voltaje de trabajo: 120 V (60 Hz)",                "Presión nominal 1,220 PSI / 84 Bar",                "Presión máxima admisible: 1,450 PSI/100 Bar",                "Caudal máximo de agua: 7.3 litros/minuto",                "Longitud de manguera: 7.0 metros"]
+                
+                
+            }
+        },
+        {
+            "id": "43",
+                "prop": {
+                "title": "MINI-MOTOSIERRA GTA 26",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl GTA 26.jpg",
+                "text1": "Mini-sierra de batería, para podar árboles y arbustos, para cortar ramas verdes y para trabajos con madera. Cadena de 1/4” para un alto rendimiento de corte y cortes potentes Manillar antideslizante para una ergonomía perfecta y sustitución de la cadena sin herramientas, cubierta protectora flexible para un trabajo seguro, con indicador de nivel de carga.",
+                "list": ["Peso: 2.6 libras (sin acumulador)",                "Voltaje de trabajo: 11 V",                "Longitud de la espada: 10 cm",                "Tipo de batería: Litio-ión"]                                             
+            }
+        },
+        {
+            "id": "44",
+                "prop": {
+                "title": "MOTOSIERRA MSA 120 C-BQ",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl MSA 120 C.jpg",
+                "text1": "Motosierra de batería para el jardín, cuidado de parcelas y corte de leña para la codina. Con tensado de cadena rápido y freno de cadena Quickstop Super. Cadena 1/4” PM3, para un corte limpio y buena potencia de corte. Silenciosa, sin necesidad de protección auditiva.",
+                "list": ["Peso: 8.6 libras (con batería)",                "Voltaje de trabajo: 18 V","Longitud espada de corte: 30 cm","Batería Litio-ión: sistema AK"]                                                
+                
+            }
+        },
+        {
+            "id": "45",
+                "prop": {
+                "title": "MOTOSIERRA MSA 160 C-BQ",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl MSA 160 C.jpg",
+                "text1": "Motosierra de acumulador para el trabajo en entornos sensibles alruido. Tensado rápido de cadena STIHL, freno de cadena QuickStop Super, cierre de depósito sin necesidad de herramientas, con cadena de sierra PM3 de ¼” para lograr un corte fino y de elevado rendimiento.",
+                "list": ["Peso: 9.7 libras (con batería)",                "Voltaje de trabajo: 36V",                "Longitud espada de corte: 30 cm",                "Batería Litio-ión: sistema AP"]                                
+                
+            }
+        },
+        {
+            "id": "46",
+                "prop": {
+                "title": "PODADORA DE ALTURA HTA 85",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl HTA 85.jpg",
+                "text1": "Podadora de altura de batería con tubo telescópico. Ligera y potente. Equipada con cadena 1/4” PM3 que ofrece un excelente rendimiento de corte. Vibraciones reducidas. Ideal para trabajos en áreas urbanas y zonas sensibles al ruido. Completo equipamiento.",
+                "list": ["Peso: 9.7 libras (sin batería, con equipo de corte)",                "Voltaje de trabajo: 36V",                "Longitud del equipo (mínima/máxima): 2.70/3.90 m","Longitud espada de corte: 30 cm"]
+                
+                
+            }
+        },
+        {
+            "id": "47",
+                "prop": {
+                "title": "SOPLADORA BGA 45",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl BGA 45.jpg",
+                "text1": "Soplador de batería ultraligero y silencioso. El BGA 45 cuenta con un acumulador de Litio-Ion de 5 celdas integrado y permite ser recargado por medio de un tomacorriente de pared. Tamaño adecuado que ofrece gran manejo y de fácil operación. Gracias a la batería integrada permite un balance de peso óptimo en el equipo evitando fatiga en la operación.",
+                "list": ["Peso: 4.6 libras","Voltaje de trabajo: 18 V","Velocidad máxima de aire: 38 m/s"]
+
+                
+            }
+        },
+        {
+            "id": "48",
+                "prop": {
+                "title": "TIJERAS DE PODA ASA 85",
+                "image": "Stihl/Maquinaria/Electrico y bateria/Stihl ASA 85.jpg",
+                "text1": "Tijeras de poda de acumulador de corte potente con apertura de cuchilla ajustable gracias a su sistema electrónico inteligente, hecha con una carcasa de aluminio robusta y ligera, cuenta con arnés ergonómico porta acumulador guiado con cable.",
+                "list": ["Peso: 2.2 libras (sin acumulador)","Grosor máximo de corte: 4.5 cm","Autonomía de trabajo: 6 a 8 horas con acumulador AP 180"]
+                
+                
+            }
+        },
+        {
+            "id": "49",
+                "prop": {
+                "title": "AHOYADORA BT 131",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BT 131.jpg",
+                "text1": "Ahoyadora para un usuario para realizar agujeros en la tierra de hasta 300 mm de diametro. Con potente motor 4 MIX®, con depósito de gran capacidad. Amortiguador de vibraciones, con pulsador Stop integrado en el manillar. Con freno taladro STIHL QuickStop, que en caso de giro infortunado del usuario se para la máquina.",
+                "list": ["Cilindra: cm336.3","Potencia: kW/CV1.4/1.9","Peso (sin combustible ni broca) libras22.0"]                                
+            }
+        },
+        {
+            "id": "50",
+                "prop": {
+                "title": "AHOYADORA/TALADRADORA BT 45",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BT 45.jpg",
+                "text1": "Ahoyadora/Taladradora manual con un potente motor de gasolina y diversas brocas para agujeros de hasta 25 mm. Con tensado rápido, reductora de dos velocidades (marcha atrás) para soltar las brocas atascadas. La marcha en vacío ofrece un arranque seguro de la máquina, sin broca.",
+                "list": ["Cilindra: cm327.2","Potencia: kW/CV0.8/1.1","Peso (sin combustible ni broca) libras10.6"]
+                                
+            }
+        },
+        {
+            "id": "51",
+                "prop": {
+                "title": "CORTASETOS DE ALTURA HL 94 KC-E",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl HL 94.jpg",
+                "text1": "Ideal para el cuidado de setos, Transmisión más ligera, 2-MIX con ECOSPEED para regular las revoluciones, STIHL ErgoStart, ajustable a 145º, con cuchilla 60cm, longitud total 199cm.",
+                "list": ["Cilindra: 24.1 cm3",                "Potencia: 0.9/1.2 kW/CV",                "Longitud de corte: 60 cm",                "Longitud total 199 cm",                "Volumen del depósito combustible 540 cc",                "Peso (sin combustible, completo) 13.42 libras"]                
+                
+            }
+        },
+        {
+            "id": "52",
+                "prop": {
+                "title": "CORTASETOS HS 45",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl HS 45.jpg",
+                "text1": "Cortasetos básico para el mantenimiento de setos en el jardín de su vivienda. Sistema antivibración STIHL. Arranque STIHL ElastoStart, sistema de filtro de aire de larga duración, motor 2-MIX, cuchillas de un filo, protección anticorte integrada. ",                
+                "list": ["Cilindra: 27.2 cm3",                "Potencia: 0.75/1.0 kW/CV",                "Longitud de corte: 45 cm",				                "Volumen del depósito combustible 225 cc",                "Peso (sin combustible, completo) 10.34 libras"]
+                
+            }
+        },
+        {
+            "id": "53",
+                "prop": {
+                "title": "MULTIMOTOR MM 56",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl MM 55.jpg",
+                "text1": "Multimotor para gran variedad de trabajos, cuidado del césped, tratamiento del suelo y limpieza. Amplia gama de herramientas STIHL combi, con manillar abatible para facilitar el transporte, proceso de arranque mejorado, pulsador Stop, filtro de papel.",
+                "list": ["Cilindra: cm327.2",                "Potencia: kW/CV0.85/1.2",                "Volumen del depósito combustible lts0.71",                "Peso (sin combustible):  libras18.3"                ]                
+            }
+        },
+        {
+            "id": "54",
+                "prop": {
+                "title": "PODADOR DE PALMA PC 70",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl PC 70.jpg",
+                "text1": "Para poda y cosecha de palma de aceite con una altura hasta de 3 metros de muy fácil operación y mayor ergonomía para proporcionar una alta productividad. Equipado con sistema ElastoStart y bomba de combustible manual en el carburador para facilitar el arranque.",
+                "list": ["Cilindra: cm325.4","Potencia: kW/CV0.95/1.3","Peso (sin combustible):  libras13.6"]                
+            }
+        },
+        {
+            "id": "55",
+                "prop": {
+                "title": "PODADOR DE PALMA PC 75",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl PC 75.jpg",
+                "text1": "Para poda y cosecha de palma de aceite con una altura hasta de 5 metros con Vástago extendible, de muy fácil operación y mayor ergonomía para proporcionar una alta productividad. Equipado con sistema ElastoStart y bomba de combustible manual en el carburador para facilitar el arranque.",
+                "list": ["Cilindra: cm325.4","Potencia: kW/CV0.95/1.3","Peso (sin combustible):  libras13.6"]
+                
+            }
+        },
+        {
+            "id": "56",
+                "prop": {
+                "title": "PODADORA DE ALTURA HT 101",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl HT 101.jpg",
+                "text1": "Modelo para el mantenimiento de frutales y árboles en general. Caja reductora ligera y compacta con tuercas imperdibles en la tapa del piñón. Rendimiento de corte optimizado gracias a su cadena 1/4”-PM3. Con motor 4-MIX® y arranque simplificado. Muy ergonómica y firme gracias a su tubo telescópico cuadrado con peso reducido. Longitud total 270 – 390 cm.",
+                "list": ["Cilindrada: 31.4 cc",                "Potencia: 1.05/1.4 kW/CV",                "Volumen del depósito 530 cc",                "Peso: 15.84 lb (sin combustible, espada ni cadena)",                "Largo de espada: 14”",                "Cadena STIHL Oilomatic: 1/4” 1.1 mm"]
+                
+                
+            }
+        },
+        {
+            "id": "57",
+                "prop": {
+                "title": "PODADORA DE ALTURA HT 103",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl HT 103.jpg",
+                "text1": "Modelo para el mantenimiento de frutales y árboles en general. Caja reductora ligera y compacta con tuercas imperdibles en la tapa del piñón. Rendimiento de corte optimizado gracias a su cadena 1/4”-PM3. Con motor 4-MIX® y arranque simplificado. Muy ergonómica y firme gracias a su tubo telescópico cuadrado con peso reducido. Longitud total 270 – 390 cm.",
+                "list": ["Cilindrada 31.4 cc",                "Potencia: 1.05/1.4 kW/CV",                "Volumen del depósito: 710 cc",                "Peso (sin combustible, espada ni cadena): 15.84 lb",                "Largo de espada: 14”",                "Cadena STIHL Oilomatic: 1/4” 1.1 mm"]                
+                
+            }     
+       },
+        {
+            "id": "58",
+                "prop": {
+                "title": "SOPLADORA BG 50",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BG 50.jpg",
+                "text1": "Sopladora ligera para el trabajo del jardín y la conservación de parcelas.  Difusor circular, tubo soplador de una pieza, palanca de aceleración para la regulación sin niveles de las revoluciones.",
+                "list": ["Cilindra: 27.2 cm3",                "Potencia: 0.8/1 kW/CV",                "Volumen del depósito combustible: 0.44 litros",                "Peso (sin combustible): 7.9 libras",                "Velocidad máxima del aire: 71 m/s"]
+                
+                
+            }
+        },
+        {
+            "id": "59",
+                "prop": {
+                "title": "SOPLADORA BG 86",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BG 86C.jpg",
+                "text1": "Para limpiar grandes superficies cubiertas de hojarasca y restos de césped cortado.  Gracias al filtro HD2, es adecuada también para su uso en ambientes con mucho polvo.  Boquilla redonda, boquilla plana, sistema antivibración STIHL, jalador STIHL ElastoStart, palanca de aceleración bloqueable con stop.",
+                "list": ["Cilindra: 27.2 cm3",                "Potencia: 0.8/1.1 kW/CV",                "Volumen del depósito combustible: 0.44 litros",                "Peso (sin combustible): 9.7 libras",                "Velocidad máxima del aire: 76 m/s"]                
+                
+            }
+        },
+        {
+            "id": "60",
+                "prop": {
+                "title": "SOPLADORA BR 200",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BR 200.jpg",
+                "text1": "Soplador compacto y muy ligero. Sistema antivibración STIHL.  Motor 2-MIX, sistema de arranque simplificado, palanca de aceleración bloqueable, con botón de stop, con asa para un transporte cómodo.",
+                "list": ["Cilindra: 27.2 cm3",                "Potencia: 0.8/1.1 kW/CV",                "Volumen del depósito combustible: 1.05 litros",                "Peso (sin líquido ni combustible): 12.6 libras",                "Velocidad máxima del aire: 67 m/s"]                
+                
+            }
+        },
+        {
+            "id": "61",
+                "prop": {
+                "title": "SOPLADORA BR 420",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BR 420.jpg",
+                "text1": "Soplador con gran caudal de aire. Para la limpieza rápida de grandes superficies. Con sistema de aspiración optimizado y eficaz sistema antivibración, que hace posible su uso durante toda una jornada de trabajo.",
+                "list": ["Cilindra: 56.5 cm3",                "Potencia: 2.6/3.5 kW/CV",                "Volumen del depósito combustible: 1.05 litros",                "Peso (sin líquido ni combustible): 20.0 libras",                "Velocidad máxima del aire: 78 m/s"]
+                
+                
+            }
+        },
+        {
+            "id": "62",
+                "prop": {
+                "title": "SOPLADORA BR 500",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl BR 500.jpg",
+                "text1": "Las medidas activas, como el motor 4-MIX y las medidas pasivas, como el silenciador integrado, reducen claramente  el ruido de funcionamiento.  Esto lo hace especialmente adecuado para trabajos en entornos sensibles al ruido. Empuñadura blanda, sistema antivibración STIHL, arnés ergonómico de correas anchas, palanca de aceleración bloqueable con botón de stop, con asa para un transporte cómodo.",
+                "list": ["Cilindra: 64.8 cm3",                "Potencia: 0.8/1.1 kW/CV",                "Volumen del depósito combustible: 1.40 litros",                "Peso (sin líquido ni combustible): 22.2 libras",                "Velocidad máxima del aire: 93 m/s"]
+                
+                
+            }
+        },
+        {
+            "id": "63",
+                "prop": {
+                "title": "TRONZADORA TS 800",
+                "image": "Stihl/Maquinaria/Moto implementos/Stihl TS 800.jpg",
+                "text1": "Tronzadora de extraordinaria potencia con sistema de filtro de larga duración y separación previa tipo ciclón. Cumple con la nueva normativa de emisión de gases. Hormigón o asfalto, piedra o metal, es la máquina ideal para los trabajos y usuarios más exigentes. Diseño ergonómico con disposición optimizada de las empuñaduras. ElastoStart, compensador y válvula de descompresión. De serie con conexión de agua y disco de resina sintética (400 mm). Se puede manejar manualmente o sobre el tren de guía FW 20.",
+                "list": ["Cilindra: cm398.5","Potencia: kW/CV5.0/6.8","Volumen del depósito combustible lts1.2","Peso (sin combustible):  libras27.4"]                
+            }
+        },
+        {
+            "id": "64",
+                "prop": {
+                "title": "FSA 85",
+                "image": "Stihl/Maquinaria/Electrico y bateria/FSA85.jpeg",
+                "text1": "Potente, ligera y silenciosa desbrozadora de batería con el cómodo cabezal de corte AutoCut C 4-2 y un amplio diámetro de corte para trabajos de limpieza y de corte de pequeñas superficies de césped. Innovador motor EC de bajo consumo y larga vida útil. Práctico distanciador para cortar zonas con obstáculos, árboles o arbustos. Ideal para trabajos de corte en zonas sensibles al ruido. Innovador motor EC de bajo consumo y larga vida útil.",
+                "list": ["Peso: 6.1 libras",                "Voltaje de trabajo: 36 V",                "Herramienta de corte standard: AutoCut C 4-2",                "Diámetro de corte: 25 cm"]                
+                
+            }
+        }
+       ]    
+}
